@@ -1,0 +1,83 @@
+	Class	Compound	M8: GMM+LAB plus Mucin	M2: LAB	M3: GMM+LAB
+0	Sugar	D-glucose	5 g	15 g	5 g
+1	Sugar	Fructose	1 g	0	1 g
+2	Sugar	Cellobiose	1 g	0	1 g
+3	Sugar	Maltose	1 g	0	1 g
+4	Sugar	Lactose	1 g	0	1 g
+6	Others	Resazurin	1 mg	0	1 mg
+7	Others	NAD (N1511)	2 mg	0	2 mg
+8	Others	Hemin	0.5 mg	0	0.5 mg
+9	Others	Mucin	5 g	0	0
+10	Others	KCl	50 mg	0	0
+12	Others	Hematin	1.2 mg	0	1.2 mg
+13	Amino acids	l-Histidine	0.171 g	0.17 g	0.171 g
+14	Amino acids	l-Isoleucine	0.24 g	0.24 g	0.24 g
+15	Amino acids	l-Leucine	1 g	1 g	1 g
+16	Amino acids	l-Methionine	0.125 g	0.125 g	0.125 g
+17	Amino acids	l-Valine	0.7 g	0.7 g	0.7 g
+18	Amino acids	l-Arginine	0.72 g	0.72 g	0.72 g
+19	Amino acids	l-Cysteine	0.5 g	0.2 g	0.5 g
+20	Amino acids	l-Glutamic acid	0.6 g	0.6 g	0.6 g
+21	Amino acids	l-Phenylalanine	0.4 g	0.4 g	0.4 g
+22	Amino acids	l-Proline	0.7 g	0.7 g	0.7 g
+23	Amino acids	l-Asparagine	0.5 g	0.5 g	0.5 g
+24	Amino acids	l-Aspartic acid	0.05 g	0.05 g	0.05 g
+25	Amino acids	l-Glutamine	0.6 g	0.6 g	0.6 g
+26	Amino acids	l-Serine	0.5 g	0.5 g	0.5 g
+27	Amino acids	l-Threonine	0.5 g	0.5 g	0.5 g
+28	Amino acids	l-Alanine	0.4 g	0.4 g	0.4 g
+29	Amino acids	Glycine	0.3 g	0.3 g	0.3 g
+30	Amino acids	l-Lysine	0.5 g	0.5 g	0.5 g
+31	Amino acids	l-Tryptophan	0.2 g	0.2 g	0.2 g
+32	Amino acids	l-Tyrosine	0.3 g	0.3 g	0.3 g
+33	Nucleotids	Adenine	11 mg	11 mg	11 mg
+34	Nucleotids	Guanine	5.6 mg	5.6 mg	5.6 mg
+35	Nucleotids	Uracil	23 mg	23 mg	23 mg
+36	Nucleotids	Xanthine	3.8 mg	3.8 mg	3.8 mg
+37	Salts & Minerals	KCH3CO2 (Potassium acetate)	0.9 g	0.9 g	0.9 g
+38	Salts & Minerals	FeSO4 . 7H2O	4 mg	4 mg	4 mg
+39	Salts & Minerals	MgCl2	0.386 g	0.386 g	0.386 g
+40	Salts & Minerals	ZnSO4 * 7 H2O	5 mg	5 mg	5 mg
+41	Salts & Minerals	Co(NO3)2 . 6H2O	1 mg	0	1 mg
+42	Salts & Minerals	AlK(SO4)2 (anhydrous)	0.1 mg	0	0.1 mg
+43	Salts & Minerals	Na2SeO3 (anhydrous)	10 µg	0	10 µg
+44	Salts & Minerals	Na2WO4 . 2H2O	0.1 mg	0	0.1 mg
+45	Salts & Minerals	NiCl2 . 6H2O	0.2 mg	0	0.2 mg
+46	Salts & Minerals	CaCl2 (anhydrous)	30.2 mg	30.2 mg	30.2 mg
+47	Salts & Minerals	CoCl2·6H2O	0.19 mg	0.19 mg	0.19 mg
+48	Salts & Minerals	CuSO4 (anhydrous)	0.12 mg	0.12 mg	0.12 mg
+49	Salts & Minerals	H3BO3	0.75 mg	0.75 mg	0.75 mg
+50	Salts & Minerals	KI	0.11 mg	0.11 mg	0.11 mg
+51	Salts & Minerals	MnSO4 * H2O	5 mg	0.11 mg	5 mg
+52	Salts & Minerals	(NH4)6Mo7O24·4H2O	0.19 mg	0.19 mg	0.19 mg
+53	Salts & Minerals	K2SO4	23 mg	23 mg	23 mg
+54	Salts & Minerals	NaCl	0.81 g	3 g	3.01 g
+55	Salts & Minerals	Ammonium citrate dibasic	1.7 g	1.7 g	1.7 g
+56	Salts & Minerals	FeCl3	3 mg	3 mg	3 mg
+57	Salts & Minerals	MgSO4 * 7 H2O	30 mg	0	30 mg
+58	Salts & Minerals	NaHCO3	0.4 g	0	0.4 g
+62	Salts & Minerals	Na2MoO4 . 2H2O	0.1 mg	0	0.1 mg
+68	Vitamins & Antioxidants	myo-Inositol	2 mg	2 mg	2 mg
+69	Vitamins & Antioxidants	L-Glutathione reduced	15 mg	15 mg	15 mg
+70	Vitamins & Antioxidants	Biotin	6.02 mg	6 mg	6.02 mg
+71	Vitamins & Antioxidants	Thiamine HCl	0.56 mg	0.56 mg	0.56 mg
+72	Vitamins & Antioxidants	Riboflavin	0.9 mg	0.9 mg	0.9 mg
+73	Vitamins & Antioxidants	Ascorbic acid	0.5 g	0.5 g	0.5 g
+74	Vitamins & Antioxidants	Pyridoxamine . 2 HCl	5 mg	5 mg	5 mg
+75	Vitamins & Antioxidants	Niacin	0.9 mg	0.9 mg	0.9 mg
+76	Vitamins & Antioxidants	Pyridoxine HCl	4.8 mg	4.8 mg	4.8 mg
+77	Vitamins & Antioxidants	Calcium Pantothenate	1.2 mg	1.2 mg	1.2 mg
+78	Vitamins & Antioxidants	Folic acid	0.56 mg	0.56 mg	0.56 mg
+79	Vitamins & Antioxidants	p-Aminobenzoic acid	50 µg	56 µg	50 µg
+80	Vitamins & Antioxidants	Lipoic acid	1.05 mg	1 mg	1.05 mg
+82	Vitamins & Antioxidants	Vitamin B12	1 µg	0	1 µg
+83	Vitamins & Antioxidants	Vitamin K (menadione)	1 mg	0	1 mg
+84	SCFA	Acetic acid	1.7 mL	0	1.7 mL
+85	SCFA	Isovaleric acid	0.1 mL	0	0.1 mL
+86	SCFA	Propionic acid	2 mL	0	2 mL
+87	SCFA	Butyric acid	2 mL	0	2 mL
+88	Buffer compounds	KH2PO4	13.609 g	3.1 g	13.609 g
+89	Buffer compounds	K2HPO4	6.48 g	6.48 g	6.48 g
+90	Buffer compounds	Tricine	1.5 g	1.5 g	1.5 g
+91	Buffer compounds	EDTA	12.34 mg	7.34 mg	12.34 mg
+92	Buffer compounds	Nitrilotriacetic acid	7.34 mg	7.34 mg	7.34 mg
