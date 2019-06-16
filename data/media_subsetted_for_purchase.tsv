@@ -1,0 +1,66 @@
+	Unnamed: 0	Class	Compound	M8: GMM+LAB plus Mucin	M2: LAB	M3: GMM+LAB	price	volume/mass (ml/g)	price per unit	Catalog ID	link	Notes	Guerrant stock	Buy?
+3	3.0	Sugar	Maltose	1 g	0	1 g	$35.28 	100.0	$0.35 	VWRV1B1184-100G	https://us.vwr.com/store/product/7437397/d-maltose-monohydrate-reagent-grade			Yes
+6	7.0	Others	NAD (N1511)	2 mg	0	2 mg	$155 	1.0	$155.00 	N1511-1G	https://www.sigmaaldrich.com/catalog/product/sial/n1511?lang=en&region=US	Smaller quantities available		Yes
+7	8.0	Others	Hemin	0.5 mg	0	0.5 mg	$53.60 	1.0	$53.60 	51280-1G	https://www.sigmaaldrich.com/catalog/product/sigma/51280?lang=en&region=US			Yes
+8	9.0	Others	Mucin	5 g	0	0	$368.00 	100.0	$3.68 	M1778-10G	https://www.sigmaaldrich.com/catalog/product/sigma/m1778?lang=en&region=US&cm_sp=Insite-_-prodRecCold_xviews-_-prodRecCold3-2	Smaller quantities available		Yes
+10	12.0	Others	Hematin	1.2 mg	0	1.2 mg	$48.90 	1.0	$48.90 	H3281-1G	https://www.sigmaaldrich.com/catalog/product/sigma/h3281?lang=en&region=US	Larger quantities available		Yes
+11	13.0	Amino acids	l-Histidine	0.171 g	0.17 g	0.171 g	$27.60 	25.0	$1.10 	H8000-25G	https://www.sigmaaldrich.com/catalog/product/sial/h8000?lang=en&region=US	Larger quantities available		Yes
+12	14.0	Amino acids	l-Isoleucine	0.24 g	0.24 g	0.24 g	$50.50 	25.0	$2.02 	I2752-25G	https://www.sigmaaldrich.com/catalog/product/sial/i2752?lang=en&region=US			Yes
+14	16.0	Amino acids	l-Methionine	0.125 g	0.125 g	0.125 g	$22.50 	25.0	$0.90 	M9625-25G	https://www.sigmaaldrich.com/catalog/product/sial/m9625?lang=en&region=US			Yes
+15	17.0	Amino acids	l-Valine	0.7 g	0.7 g	0.7 g	$25.60 	25.0	$1.02 	V0500-25G	https://www.sigmaaldrich.com/catalog/product/sial/v0500?lang=en&region=US			Yes
+17	19.0	Amino acids	l-Cysteine	0.5 g	0.2 g	0.5 g	$52.60 	25.0	$2.10 	C7352-25G	https://www.sigmaaldrich.com/catalog/product/sigma/c7352?lang=en&region=US		100g, could use some more	Yes
+18	20.0	Amino acids	l-Glutamic acid	0.6 g	0.6 g	0.6 g	$19.20 	100.0	$0.19 	G1251-100G	https://www.sigmaaldrich.com/catalog/product/sigma/g1251?lang=en&region=US			Yes
+19	21.0	Amino acids	l-Phenylalanine	0.4 g	0.4 g	0.4 g	$82.80 	100.0	$0.83 	P2126-100G	https://www.sigmaaldrich.com/catalog/product/sial/p2126?lang=en&region=US			Yes
+20	22.0	Amino acids	l-Proline	0.7 g	0.7 g	0.7 g	$79.10 	100.0	$0.79 	P0380-100G	https://www.sigmaaldrich.com/catalog/product/sial/p0380?lang=en&region=US			Yes
+21	23.0	Amino acids	l-Asparagine	0.5 g	0.5 g	0.5 g	$29.20 	25.0	$1.17 	A0884-25G	https://www.sigmaaldrich.com/catalog/product/sigma/a0884?lang=en&region=US			Yes
+22	24.0	Amino acids	l-Aspartic acid	0.05 g	0.05 g	0.05 g	$30.20 	100.0	$0.30 	A9256-100G	https://www.sigmaaldrich.com/catalog/product/sigma/a9256?lang=en&region=US			Yes
+24	26.0	Amino acids	l-Serine	0.5 g	0.5 g	0.5 g	$92.10 	100.0	$0.92 	S4500-100G	https://www.sigmaaldrich.com/catalog/product/sigma/s4500?lang=en&region=US			Yes
+25	27.0	Amino acids	l-Threonine	0.5 g	0.5 g	0.5 g	$50.20 	25.0	$2.01 	T8625-25G	https://www.sigmaaldrich.com/catalog/product/sial/t8625?lang=en&region=US			Yes
+26	28.0	Amino acids	l-Alanine	0.4 g	0.4 g	0.4 g	$70.70 	100.0	$0.71 	A7627-100G	https://www.sigmaaldrich.com/catalog/product/sigma/a7627?lang=en&region=US		~10g, get more	Yes
+28	30.0	Amino acids	l-Lysine	0.5 g	0.5 g	0.5 g	$97.80 	25.0	$3.91 	L5501-25G	https://www.sigmaaldrich.com/catalog/product/sigma/l5501?lang=en&region=US			Yes
+29	31.0	Amino acids	l-Tryptophan	0.2 g	0.2 g	0.2 g	$36.20 	25.0	$1.45 	T0254-25G	https://www.sigmaaldrich.com/catalog/product/sial/t0254?lang=en&region=US		5g	Yes
+30	32.0	Amino acids	l-Tyrosine	0.3 g	0.3 g	0.3 g	$76.50 	50.0	$1.53 	T3754-50G	https://www.sigmaaldrich.com/catalog/product/sial/t3754?lang=en&region=US			Yes
+31	33.0	Nucleotids	Adenine	11 mg	11 mg	11 mg	$54.10 	5.0	$10.82 	A8626-5G	https://www.sigmaaldrich.com/catalog/product/sigma/a8626?lang=en&region=US			Yes
+33	35.0	Nucleotids	Uracil	23 mg	23 mg	23 mg	$45.20 	25.0	$1.81 	U0750-25G	https://www.sigmaaldrich.com/catalog/product/sigma/u0750?lang=en&region=US			Yes
+34	36.0	Nucleotids	Xanthine	3.8 mg	3.8 mg	3.8 mg	$54.10 	10.0	$5.41 	X7375-10G	https://www.sigmaaldrich.com/catalog/product/sigma/x7375?lang=en&region=US			Yes
+35	37.0	Salts & Minerals	KCH3CO2 (Potassium acetate)	0.9 g	0.9 g	0.9 g	$70.00 	1000.0	$0.07 	W292001-1KG	https://www.sigmaaldrich.com/catalog/product/aldrich/w292001?lang=en&region=US			Yes
+36	38.0	Salts & Minerals	FeSO4 . 7H2O	4 mg	4 mg	4 mg	$33.90 	250.0	$0.14 	F7002-250G	https://www.sigmaaldrich.com/catalog/product/sigald/f7002?lang=en&region=US			Yes
+37	39.0	Salts & Minerals	MgCl2	0.386 g	0.386 g	0.386 g	$55.20 	1000.0	$0.06 	M8266-1KG	https://www.sigmaaldrich.com/catalog/product/sigma/m8266?lang=en&region=US			Yes
+39	41.0	Salts & Minerals	Co(NO3)2 . 6H2O	1 mg	0	1 mg	$62.60 	100.0	$0.63 	230375-100G	https://www.sigmaaldrich.com/catalog/product/sigald/230375?lang=en&region=US			Yes
+40	42.0	Salts & Minerals	AlK(SO4)2 (anhydrous)	0.1 mg	0	0.1 mg	$44.30 	100.0	$0.44 	237086-100G	https://www.sigmaaldrich.com/catalog/product/sigald/237086?lang=en&region=US			Yes
+41	43.0	Salts & Minerals	Na2SeO3 (anhydrous)	10 µg	0	10 µg	$30.80 	10.0	$3.08 	S5261-10G	https://www.sigmaaldrich.com/catalog/product/sigma/s5261?lang=en&region=US			Yes
+42	44.0	Salts & Minerals	Na2WO4 . 2H2O	0.1 mg	0	0.1 mg	$45.10 	25.0	$1.80 	72069-25G	https://www.sigmaaldrich.com/catalog/product/sigma/72069?lang=en&region=US			Yes
+43	45.0	Salts & Minerals	NiCl2 . 6H2O	0.2 mg	0	0.2 mg	$108.00 	500.0	$0.22 	223387-500G	https://www.sigmaaldrich.com/catalog/product/sigald/223387?lang=en&region=US			Yes
+44	46.0	Salts & Minerals	CaCl2 (anhydrous)	30.2 mg	30.2 mg	30.2 mg	$55.40 	100.0	$0.55 	C4901-100G	https://www.sigmaaldrich.com/catalog/product/sigald/c4901?lang=en&region=US			Yes
+45	47.0	Salts & Minerals	CoCl2·6H2O	0.19 mg	0.19 mg	0.19 mg	$73.20 	100.0	$0.73 	255599-100G	https://www.sigmaaldrich.com/catalog/product/sigald/255599?lang=en&region=US			Yes
+46	48.0	Salts & Minerals	CuSO4 (anhydrous)	0.12 mg	0.12 mg	0.12 mg	$55.90 	250.0	$0.22 	12852-250G-R	https://www.sigmaaldrich.com/catalog/product/sigald/12852?lang=en&region=US			Yes
+48	50.0	Salts & Minerals	KI	0.11 mg	0.11 mg	0.11 mg	$53.90 	100.0	$0.54 	793582-100G	https://www.sigmaaldrich.com/catalog/product/sigald/793582?lang=en&region=US			Yes
+50	52.0	Salts & Minerals	(NH4)6Mo7O24·4H2O	0.19 mg	0.19 mg	0.19 mg	$46.60 	25.0	$1.86 	09878-25G	https://www.sigmaaldrich.com/catalog/product/sigma/09878?lang=en&region=US			Yes
+51	53.0	Salts & Minerals	K2SO4	23 mg	23 mg	23 mg	$55.90 	250.0	$0.22 	P0772-250G	https://www.sigmaaldrich.com/catalog/product/sigald/p0772?lang=en&region=US			Yes
+53	55.0	Salts & Minerals	Ammonium citrate dibasic	1.7 g	1.7 g	1.7 g	$49.30 	500.0	$0.10 	25102-500G-R	https://www.sigmaaldrich.com/catalog/product/sial/25102?lang=en&region=US			Yes
+54	56.0	Salts & Minerals	FeCl3	3 mg	3 mg	3 mg	$41.30 	100.0	$0.41 	157740-100G	https://www.sigmaaldrich.com/catalog/product/sigald/157740?lang=en&region=US			Yes
+57	62.0	Salts & Minerals	Na2MoO4 . 2H2O	0.1 mg	0	0.1 mg	$78.20 	100.0	$0.78 	243655-100G	https://www.sigmaaldrich.com/catalog/product/sigald/243655?lang=en&region=US			Yes
+58	68.0	Vitamins & Antioxidants	myo-Inositol	2 mg	2 mg	2 mg	$43.00 	50.0	$0.86 	I5125-50G	https://www.sigmaaldrich.com/catalog/product/sigma/i5125?lang=en&region=US			Yes
+59	69.0	Vitamins & Antioxidants	L-Glutathione reduced	15 mg	15 mg	15 mg	$76.00 	10.0	$7.60 	G4251-10G	https://www.sigmaaldrich.com/catalog/product/sial/g4251?lang=en&region=US			Yes
+60	70.0	Vitamins & Antioxidants	Biotin	6.02 mg	6 mg	6.02 mg	$70.20 	1.0	$70.20 	B4501-1G	https://www.sigmaaldrich.com/catalog/product/sial/b4501?lang=en&region=US			Yes
+61	71.0	Vitamins & Antioxidants	Thiamine HCl	0.56 mg	0.56 mg	0.56 mg	$117.51 	100.0	$1.18 	MK272257	https://us.vwr.com/store/product/4563219/thiamine-hydrochloride-98-usp-macron-fine-chemicalstm			Yes
+62	72.0	Vitamins & Antioxidants	Riboflavin	0.9 mg	0.9 mg	0.9 mg	$28.90 	25.0	$1.16 	R9504-25G	https://www.sigmaaldrich.com/catalog/product/sigma/r9504?lang=en&region=US			Yes
+63	73.0	Vitamins & Antioxidants	Ascorbic acid	0.5 g	0.5 g	0.5 g	$68.10 	100.0	$0.68 	795437-100G	https://www.sigmaaldrich.com/catalog/product/sial/795437?lang=en&region=US			Yes
+64	74.0	Vitamins & Antioxidants	Pyridoxamine . 2 HCl	5 mg	5 mg	5 mg	$95.70 	1.0	$95.70 	P9158-1G	https://www.sigmaaldrich.com/catalog/product/sigma/p9158?lang=en&region=US			Yes
+65	75.0	Vitamins & Antioxidants	Niacin	0.9 mg	0.9 mg	0.9 mg	$29.70 	100.0	$0.30 	N0761-100G	https://www.sigmaaldrich.com/catalog/product/sigma/n0761?lang=en&region=US			Yes
+66	76.0	Vitamins & Antioxidants	Pyridoxine HCl	4.8 mg	4.8 mg	4.8 mg	$42.00 	25.0	$1.68 	P9755-25G	https://www.sigmaaldrich.com/catalog/product/sial/p9755?lang=en&region=US			Yes
+67	77.0	Vitamins & Antioxidants	Calcium Pantothenate	1.2 mg	1.2 mg	1.2 mg	$67.10 	100.0	$0.67 	P5155-100G	https://www.sigmaaldrich.com/catalog/product/sigma/p5155?lang=en&region=US			Yes
+68	78.0	Vitamins & Antioxidants	Folic acid	0.56 mg	0.56 mg	0.56 mg	$32.60 	5.0	$6.52 	F8758-5G	https://www.sigmaaldrich.com/catalog/product/sigma/f8758?lang=en&region=US			Yes
+69	79.0	Vitamins & Antioxidants	p-Aminobenzoic acid	50 µg	56 µg	50 µg	$25.10 	50.0	$0.50 	100536-50G	https://www.sigmaaldrich.com/catalog/product/aldrich/100536?lang=en&region=US			Yes
+70	80.0	Vitamins & Antioxidants	Lipoic acid	1.05 mg	1 mg	1.05 mg	$81.70 	5.0	$16.34 	T1395-5G	https://www.sigmaaldrich.com/catalog/product/sigma/t1395?lang=en&region=US			Yes
+71	82.0	Vitamins & Antioxidants	Vitamin B12	1 µg	0	1 µg	$116 	1.0	$116.00 	V2876-1G	https://www.sigmaaldrich.com/catalog/product/sigma/v2876?lang=en&region=US			Yes
+72	83.0	Vitamins & Antioxidants	Vitamin K (menadione)	1 mg	0	1 mg	$50.80 	25.0	$2.03 	M5625-25G	https://www.sigmaaldrich.com/catalog/product/sigma/m5625?lang=en&region=US			Yes
+73	84.0	SCFA	Acetic acid	1.7 mL	0	1.7 mL	$62.60 	1000.0	$0.06 	A6283-1L	https://www.sigmaaldrich.com/catalog/product/sigald/a6283?lang=en&region=US			Yes
+74	85.0	SCFA	Isovaleric acid	0.1 mL	0	0.1 mL	$23.90 	100.0	$0.24 	129542-100ML	https://www.sigmaaldrich.com/catalog/product/aldrich/129542?lang=en&region=US			Yes
+75	86.0	SCFA	Propionic acid	2 mL	0	2 mL	$36.00 	1000.0	$0.04 	P5561-1L	https://www.sigmaaldrich.com/catalog/product/sigma/p5561?lang=en&region=US			Yes
+76	87.0	SCFA	Butyric acid	2 mL	0	2 mL	$31.30 	500.0	$0.06 	B103500-500ML	https://www.sigmaaldrich.com/catalog/product/aldrich/b103500?lang=en&region=US			Yes
+77	88.0	Buffer compounds	KH2PO4	13.609 g	3.1 g	13.609 g	$126.00 	1000.0	$0.13 	P5655-1KG	https://www.sigmaaldrich.com/catalog/product/sigma/p5655?lang=en&region=US		500g+500g	Yes
+78	89.0	Buffer compounds	K2HPO4	6.48 g	6.48 g	6.48 g	$107.00 	500.0	$0.21 	P8281-500G	https://www.sigmaaldrich.com/catalog/product/sial/p8281?lang=en&region=US		100g+500g	Yes
+79	90.0	Buffer compounds	Tricine	1.5 g	1.5 g	1.5 g	$150 	250.0	$0.60 	T0377-250G	https://www.sigmaaldrich.com/catalog/product/sigma/t0377?lang=en&region=US			Yes
+80	91.0	Buffer compounds	EDTA	12.34 mg	7.34 mg	12.34 mg	$68.80 	500.0	$0.14 	798681-500G	https://www.sigmaaldrich.com/catalog/product/aldrich/798681?lang=en&region=US			Yes
+81	92.0	Buffer compounds	Nitrilotriacetic acid	7.34 mg	7.34 mg	7.34 mg	$39.30 	100.0	$0.39 	N9877-100G	https://www.sigmaaldrich.com/catalog/product/sial/n9877?lang=en&region=US			Yes
