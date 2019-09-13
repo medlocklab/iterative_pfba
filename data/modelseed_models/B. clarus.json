@@ -7897,27 +7897,6 @@
 "formula":"O4PR2"
 },
 {
-"id":"cpd00557_c",
-"name":"Siroheme",
-"compartment":"c",
-"charge":-8,
-"formula":"C42H36FeN4O16"
-},
-{
-"id":"cpd15795_c",
-"name":"Anteisoheptadecanoylcardiolipin (B. subtilis)",
-"compartment":"c",
-"charge":-2,
-"formula":"C77H148O17P2"
-},
-{
-"id":"cpd03422_c",
-"name":"Cobinamide",
-"compartment":"c",
-"charge":3,
-"formula":"C48H75CoN11O8"
-},
-{
 "id":"cpd00028_c",
 "name":"Heme",
 "compartment":"c",
@@ -7932,18 +7911,18 @@
 "formula":"C176H303N2O100P4"
 },
 {
+"id":"cpd03422_c",
+"name":"Cobinamide",
+"compartment":"c",
+"charge":3,
+"formula":"C48H75CoN11O8"
+},
+{
 "id":"cpd10515_c",
 "name":"Fe2+",
 "compartment":"c",
 "charge":2,
 "formula":"Fe"
-},
-{
-"id":"cpd00063_c",
-"name":"Ca2+",
-"compartment":"c",
-"charge":2,
-"formula":"Ca"
 },
 {
 "id":"cpd15666_c",
@@ -7953,18 +7932,18 @@
 "formula":"C40H63N8O21R"
 },
 {
-"id":"cpd15665_c",
-"name":"Peptidoglycan polymer (n subunits)",
+"id":"cpd11416_c",
+"name":"Biomass",
 "compartment":"c",
-"charge":-4,
-"formula":"C80H125N16O42R"
+"charge":0,
+"formula":"null"
 },
 {
-"id":"cpd15794_c",
-"name":"Isoheptadecanoylcardiolipin (B. subtilis)",
+"id":"cpd00557_c",
+"name":"Siroheme",
 "compartment":"c",
-"charge":-2,
-"formula":"C77H148O17P2"
+"charge":-8,
+"formula":"C42H36FeN4O16"
 },
 {
 "id":"cpd15793_c",
@@ -7974,270 +7953,32 @@
 "formula":"C81H156O17P2"
 },
 {
-"id":"cpd11416_c",
-"name":"Biomass",
-"compartment":"c",
-"charge":0,
-"formula":"null"
-},
-{
-"id":"cpd11501_c",
-"name":"6-methyl-3-hydroxy-octanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C20H37N2O9PRS"
-},
-{
-"id":"cpd01476_c",
-"name":"Protoporphyrin",
+"id":"cpd15794_c",
+"name":"Isoheptadecanoylcardiolipin (B. subtilis)",
 "compartment":"c",
 "charge":-2,
-"formula":"C34H32N4O4"
+"formula":"C77H148O17P2"
 },
 {
-"id":"cpd03443_c",
-"name":"3-Octaprenyl-4-hydroxybenzoate",
-"compartment":"c",
-"charge":-1,
-"formula":"C47H69O3"
-},
-{
-"id":"cpd03444_c",
-"name":"2-Octaprenylphenol",
-"compartment":"c",
-"charge":0,
-"formula":"C46H70O"
-},
-{
-"id":"cpd03449_c",
-"name":"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone",
-"compartment":"c",
-"charge":0,
-"formula":"C48H72O4"
-},
-{
-"id":"cpd00906_c",
-"name":"all-trans-Hexaprenyl diphosphate",
+"id":"cpd15795_c",
+"name":"Anteisoheptadecanoylcardiolipin (B. subtilis)",
 "compartment":"c",
 "charge":-2,
-"formula":"C30H50O7P2"
+"formula":"C77H148O17P2"
 },
 {
-"id":"cpd02590_c",
-"name":"all-trans-Heptaprenyl diphosphate",
-"compartment":"c",
-"charge":-2,
-"formula":"C35H58O7P2"
-},
-{
-"id":"cpd11497_c",
-"name":"4-methyl-3-hydroxy-hexanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C18H33N2O9PRS"
-},
-{
-"id":"cpd15475_c",
-"name":"glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
-"compartment":"c",
-"charge":-11,
-"formula":"C163H281N2O89P4"
-},
-{
-"id":"cpd15477_c",
-"name":"glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
-"compartment":"c",
-"charge":-11,
-"formula":"C169H291N2O94P4"
-},
-{
-"id":"cpd02295_c",
-"name":"1-4-Dihydroxy-2-naphthoate",
-"compartment":"c",
-"charge":-1,
-"formula":"C11H7O4"
-},
-{
-"id":"cpd02557_c",
-"name":"Farnesylfarnesylgeraniol",
-"compartment":"c",
-"charge":-2,
-"formula":"C40H66O7P2"
-},
-{
-"id":"cpd00268_e",
-"name":"H2S2O3",
-"compartment":"e",
-"charge":-1,
-"formula":"HO3S2"
-},
-{
-"id":"cpd15329_c",
-"name":"1-octadecanoyl-sn-glycerol 3-phosphate",
-"compartment":"c",
-"charge":-2,
-"formula":"C21H41O7P"
-},
-{
-"id":"cpd15484_c",
-"name":"heptosyl-heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-5,
-"formula":"C124H223N2O51P2"
-},
-{
-"id":"cpd15549_c",
-"name":"phospho-heptosyl-heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-8,
-"formula":"C124H219N2O54P3"
-},
-{
-"id":"cpd11530_c",
-"name":"9-methyl-3-hydroxy-decanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C22H41N2O9PRS"
-},
-{
-"id":"cpd00305_e",
-"name":"Thiamin",
-"compartment":"e",
-"charge":1,
-"formula":"C12H17N4OS"
-},
-{
-"id":"cpd00028_e",
-"name":"Heme",
-"compartment":"e",
-"charge":-2,
-"formula":"C34H30FeN4O4"
-},
-{
-"id":"cpd04918_c",
-"name":"D-Glycero-D-manno-heptose7-phosphate",
-"compartment":"c",
-"charge":-2,
-"formula":"C7H13O10P"
-},
-{
-"id":"cpd08371_c",
-"name":"Cobalt-precorrin 5",
-"compartment":"c",
-"charge":-6,
-"formula":"C45H46CoN4O16"
-},
-{
-"id":"cpd08372_c",
-"name":"Cobalt-precorrin 6",
-"compartment":"c",
-"charge":-6,
-"formula":"C44H46CoN4O16"
-},
-{
-"id":"cpd15671_c",
-"name":"1-isoheptadecanoyl-sn-glycerol 3-phosphate",
-"compartment":"c",
-"charge":-1,
-"formula":"C20H40O7P"
-},
-{
-"id":"cpd03445_c",
-"name":"2-Octaprenyl-6-hydroxyphenol",
-"compartment":"c",
-"charge":0,
-"formula":"C46H70O2"
-},
-{
-"id":"cpd03847_e",
-"name":"Myristic acid",
-"compartment":"e",
-"charge":-1,
-"formula":"C14H27O2"
-},
-{
-"id":"cpd03446_c",
-"name":"2-Octaprenyl-6-methoxyphenol",
-"compartment":"c",
-"charge":0,
-"formula":"C47H72O2"
-},
-{
-"id":"cpd01620_c",
-"name":"Precorrin 2",
-"compartment":"c",
-"charge":-7,
-"formula":"C42H41N4O16"
-},
-{
-"id":"cpd00322_e",
-"name":"L-Isoleucine",
-"compartment":"e",
-"charge":0,
-"formula":"C6H13NO2"
-},
-{
-"id":"cpd00063_e",
+"id":"cpd00063_c",
 "name":"Ca2+",
-"compartment":"e",
+"compartment":"c",
 "charge":2,
 "formula":"Ca"
 },
 {
-"id":"cpd00264_e",
-"name":"Spermidine",
-"compartment":"e",
-"charge":3,
-"formula":"C7H22N3"
-},
-{
-"id":"cpd11509_c",
-"name":"10-methyl-3-hydroxy-dodecanoyl-ACP",
+"id":"cpd15665_c",
+"name":"Peptidoglycan polymer (n subunits)",
 "compartment":"c",
-"charge":-1,
-"formula":"C24H45N2O9PRS"
-},
-{
-"id":"cpd00776_c",
-"name":"Squalene 2,3-oxide",
-"compartment":"c",
-"charge":0,
-"formula":"C30H50O"
-},
-{
-"id":"cpd01188_c",
-"name":"Lanosterol",
-"compartment":"c",
-"charge":0,
-"formula":"C30H50O"
-},
-{
-"id":"cpd15492_c",
-"name":"kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-11,
-"formula":"C139H241N2O70P4"
-},
-{
-"id":"cpd15489_c",
-"name":"inner core oligosaccharide lipid A",
-"compartment":"c",
-"charge":-7,
-"formula":"C145H255N2O74P4"
-},
-{
-"id":"cpd11425_c",
-"name":"2dmmq7",
-"compartment":"c",
-"charge":0,
-"formula":"C45H62O2"
-},
-{
-"id":"cpd11606_c",
-"name":"Menaquinone 7",
-"compartment":"c",
-"charge":0,
-"formula":"C46H64O2"
+"charge":-4,
+"formula":"C80H125N16O42R"
 },
 {
 "id":"cpd15672_c",
@@ -8247,193 +7988,39 @@
 "formula":"C20H40O7P"
 },
 {
-"id":"cpd00791_c",
-"name":"ProtoporphyrinogenIX",
+"id":"cpd02557_c",
+"name":"Farnesylfarnesylgeraniol",
 "compartment":"c",
 "charge":-2,
-"formula":"C34H38N4O4"
+"formula":"C40H66O7P2"
 },
 {
-"id":"cpd03830_c",
-"name":"ADP-D-glycero-D-manno-heptose",
+"id":"cpd02590_c",
+"name":"all-trans-Heptaprenyl diphosphate",
 "compartment":"c",
 "charge":-2,
-"formula":"C17H25N5O16P2"
+"formula":"C35H58O7P2"
 },
 {
-"id":"cpd03831_c",
-"name":"ADP-L-glycero-D-manno-heptose",
-"compartment":"c",
-"charge":-2,
-"formula":"C17H25N5O16P2"
-},
-{
-"id":"cpd00731_c",
-"name":"Ala-Ala",
-"compartment":"c",
-"charge":0,
-"formula":"C6H12N2O3"
-},
-{
-"id":"cpd15469_c",
-"name":"galactosyl-glucosyl-inner core oligosaccharide lipid A",
-"compartment":"c",
-"charge":-11,
-"formula":"C157H271N2O84P4"
-},
-{
-"id":"cpd00069_e",
-"name":"L-Tyrosine",
+"id":"cpd01080_e",
+"name":"ocdca",
 "compartment":"e",
-"charge":0,
-"formula":"C9H11NO3"
+"charge":-1,
+"formula":"C18H35O2"
 },
 {
-"id":"cpd08316_c",
-"name":"D-Glycero-D-manno-heptose1-7-bisphosphate",
-"compartment":"c",
-"charge":-4,
-"formula":"C7H12O13P2"
-},
-{
-"id":"cpd04920_c",
-"name":"D-Glycero-D-manno-heptose1-phosphate",
+"id":"cpd04918_c",
+"name":"D-Glycero-D-manno-heptose7-phosphate",
 "compartment":"c",
 "charge":-2,
 "formula":"C7H13O10P"
 },
 {
-"id":"cpd15479_c",
-"name":"glucosyl-inner core oligosaccharide lipid A",
-"compartment":"c",
-"charge":-11,
-"formula":"C151H261N2O79P4"
-},
-{
-"id":"cpd11513_c",
-"name":"12-methyl-3-hydroxy-tetra-decanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C26H49N2O9PRS"
-},
-{
-"id":"cpd11526_c",
-"name":"7-methyl-3-hydroxy-octanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C20H37N2O9PRS"
-},
-{
-"id":"cpd00890_c",
-"name":"UDP-N-acetylmuramoyl-L-alanine",
-"compartment":"c",
-"charge":-3,
-"formula":"C23H33N4O20P2"
-},
-{
-"id":"cpd00010_e",
-"name":"CoA",
-"compartment":"e",
-"charge":-4,
-"formula":"C21H32N7O16P3S"
-},
-{
-"id":"cpd15485_c",
-"name":"heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-5,
-"formula":"C117H211N2O45P2"
-},
-{
-"id":"cpd03422_e",
-"name":"Cobinamide",
-"compartment":"e",
-"charge":3,
-"formula":"C48H75CoN11O8"
-},
-{
-"id":"cpd03585_c",
-"name":"KDO-lipid IV(A)",
-"compartment":"c",
-"charge":-5,
-"formula":"C76H137N2O30P2"
-},
-{
-"id":"cpd02083_c",
-"name":"CoproporphyrinogenIII",
-"compartment":"c",
-"charge":-4,
-"formula":"C36H40N4O8"
-},
-{
-"id":"cpd08373_c",
-"name":"Cobalt-precorrin 6B",
-"compartment":"c",
-"charge":-6,
-"formula":"C44H48CoN4O16"
-},
-{
-"id":"cpd11522_c",
-"name":"5-methyl-3-hydroxy-hexanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C18H33N2O9PRS"
-},
-{
-"id":"cpd01188_e",
-"name":"Lanosterol",
+"id":"cpd15606_e",
+"name":"Gly-Tyr",
 "compartment":"e",
 "charge":0,
-"formula":"C30H50O"
-},
-{
-"id":"cpd15488_c",
-"name":"heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-8,
-"formula":"C131H231N2O60P3"
-},
-{
-"id":"cpd11534_c",
-"name":"11-methyl-3-hydroxy-dodecanoyl-ACP",
-"compartment":"c",
-"charge":-1,
-"formula":"C24H45N2O9PRS"
-},
-{
-"id":"cpd00149_e",
-"name":"Co2+",
-"compartment":"e",
-"charge":2,
-"formula":"Co"
-},
-{
-"id":"cpd02611_c",
-"name":"N-Acetyl-D-glucosamine1-phosphate",
-"compartment":"c",
-"charge":-2,
-"formula":"C8H14NO9P"
-},
-{
-"id":"cpd15550_c",
-"name":"phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
-"compartment":"c",
-"charge":-10,
-"formula":"C131H230N2O63P4"
-},
-{
-"id":"cpd15323_c",
-"name":"1-Acyl-sn-glycero-3-phosphoglycerol octadecanoyl",
-"compartment":"c",
-"charge":-1,
-"formula":"C24H48O9P"
-},
-{
-"id":"cpd00559_c",
-"name":"Supraene",
-"compartment":"c",
-"charge":0,
-"formula":"C30H50"
+"formula":"C11H14N2O4"
 },
 {
 "id":"cpd00111_c",
@@ -8464,25 +8051,18 @@
 "formula":"C44H44CoN4O16"
 },
 {
-"id":"cpd02964_c",
-"name":"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate",
+"id":"cpd15479_c",
+"name":"glucosyl-inner core oligosaccharide lipid A",
 "compartment":"c",
-"charge":-4,
-"formula":"C35H51N7O26P2"
+"charge":-11,
+"formula":"C151H261N2O79P4"
 },
 {
-"id":"cpd11606_e",
-"name":"Menaquinone 7",
-"compartment":"e",
-"charge":0,
-"formula":"C46H64O2"
-},
-{
-"id":"cpd03914_c",
-"name":"Cob(II)yrinate diamide",
+"id":"cpd15469_c",
+"name":"galactosyl-glucosyl-inner core oligosaccharide lipid A",
 "compartment":"c",
-"charge":-1,
-"formula":"C45H59CoN6O12"
+"charge":-11,
+"formula":"C157H271N2O84P4"
 },
 {
 "id":"cpd11505_c",
@@ -8492,18 +8072,60 @@
 "formula":"C22H41N2O9PRS"
 },
 {
-"id":"cpd11517_c",
-"name":"14-methyl-3-hydroxy-hexa-decanoyl-ACP",
+"id":"cpd03831_c",
+"name":"ADP-L-glycero-D-manno-heptose",
+"compartment":"c",
+"charge":-2,
+"formula":"C17H25N5O16P2"
+},
+{
+"id":"cpd15477_c",
+"name":"glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
+"compartment":"c",
+"charge":-11,
+"formula":"C169H291N2O94P4"
+},
+{
+"id":"cpd04920_c",
+"name":"D-Glycero-D-manno-heptose1-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C7H13O10P"
+},
+{
+"id":"cpd03830_c",
+"name":"ADP-D-glycero-D-manno-heptose",
+"compartment":"c",
+"charge":-2,
+"formula":"C17H25N5O16P2"
+},
+{
+"id":"cpd11526_c",
+"name":"7-methyl-3-hydroxy-octanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C20H37N2O9PRS"
+},
+{
+"id":"cpd11542_c",
+"name":"15-methyl-3-hydroxy-hexa-decanoyl-ACP",
 "compartment":"c",
 "charge":-1,
 "formula":"C28H53N2O9PRS"
 },
 {
-"id":"cpd01080_e",
-"name":"ocdca",
-"compartment":"e",
-"charge":-1,
-"formula":"C18H35O2"
+"id":"cpd08372_c",
+"name":"Cobalt-precorrin 6",
+"compartment":"c",
+"charge":-6,
+"formula":"C44H46CoN4O16"
+},
+{
+"id":"cpd08373_c",
+"name":"Cobalt-precorrin 6B",
+"compartment":"c",
+"charge":-6,
+"formula":"C44H48CoN4O16"
 },
 {
 "id":"cpd03447_c",
@@ -8520,18 +8142,67 @@
 "formula":"C48H72O3"
 },
 {
-"id":"cpd03915_c",
-"name":"Cob(I)yrinate diamide",
+"id":"cpd11497_c",
+"name":"4-methyl-3-hydroxy-hexanoyl-ACP",
 "compartment":"c",
-"charge":-2,
-"formula":"C45H59CoN6O12"
+"charge":-1,
+"formula":"C18H33N2O9PRS"
 },
 {
-"id":"cpd11542_c",
-"name":"15-methyl-3-hydroxy-hexa-decanoyl-ACP",
+"id":"cpd11517_c",
+"name":"14-methyl-3-hydroxy-hexa-decanoyl-ACP",
 "compartment":"c",
 "charge":-1,
 "formula":"C28H53N2O9PRS"
+},
+{
+"id":"cpd00010_e",
+"name":"CoA",
+"compartment":"e",
+"charge":-4,
+"formula":"C21H32N7O16P3S"
+},
+{
+"id":"cpd08316_c",
+"name":"D-Glycero-D-manno-heptose1-7-bisphosphate",
+"compartment":"c",
+"charge":-4,
+"formula":"C7H12O13P2"
+},
+{
+"id":"cpd15492_c",
+"name":"kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-11,
+"formula":"C139H241N2O70P4"
+},
+{
+"id":"cpd15489_c",
+"name":"inner core oligosaccharide lipid A",
+"compartment":"c",
+"charge":-7,
+"formula":"C145H255N2O74P4"
+},
+{
+"id":"cpd03446_c",
+"name":"2-Octaprenyl-6-methoxyphenol",
+"compartment":"c",
+"charge":0,
+"formula":"C47H72O2"
+},
+{
+"id":"cpd00268_e",
+"name":"H2S2O3",
+"compartment":"e",
+"charge":-1,
+"formula":"HO3S2"
+},
+{
+"id":"cpd00149_e",
+"name":"Co2+",
+"compartment":"e",
+"charge":2,
+"formula":"Co"
 },
 {
 "id":"cpd03587_c",
@@ -8541,11 +8212,228 @@
 "formula":"C110H196N2O39P2"
 },
 {
-"id":"cpd00066_e",
-"name":"L-Phenylalanine",
+"id":"cpd15671_c",
+"name":"1-isoheptadecanoyl-sn-glycerol 3-phosphate",
+"compartment":"c",
+"charge":-1,
+"formula":"C20H40O7P"
+},
+{
+"id":"cpd11513_c",
+"name":"12-methyl-3-hydroxy-tetra-decanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C26H49N2O9PRS"
+},
+{
+"id":"cpd11509_c",
+"name":"10-methyl-3-hydroxy-dodecanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C24H45N2O9PRS"
+},
+{
+"id":"cpd00906_c",
+"name":"all-trans-Hexaprenyl diphosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C30H50O7P2"
+},
+{
+"id":"cpd15484_c",
+"name":"heptosyl-heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-5,
+"formula":"C124H223N2O51P2"
+},
+{
+"id":"cpd15549_c",
+"name":"phospho-heptosyl-heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-8,
+"formula":"C124H219N2O54P3"
+},
+{
+"id":"cpd02295_c",
+"name":"1-4-Dihydroxy-2-naphthoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C11H7O4"
+},
+{
+"id":"cpd11530_c",
+"name":"9-methyl-3-hydroxy-decanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C22H41N2O9PRS"
+},
+{
+"id":"cpd00559_c",
+"name":"Supraene",
+"compartment":"c",
+"charge":0,
+"formula":"C30H50"
+},
+{
+"id":"cpd00776_c",
+"name":"Squalene 2,3-oxide",
+"compartment":"c",
+"charge":0,
+"formula":"C30H50O"
+},
+{
+"id":"cpd11534_c",
+"name":"11-methyl-3-hydroxy-dodecanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C24H45N2O9PRS"
+},
+{
+"id":"cpd15329_c",
+"name":"1-octadecanoyl-sn-glycerol 3-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C21H41O7P"
+},
+{
+"id":"cpd03585_c",
+"name":"KDO-lipid IV(A)",
+"compartment":"c",
+"charge":-5,
+"formula":"C76H137N2O30P2"
+},
+{
+"id":"cpd00264_e",
+"name":"Spermidine",
+"compartment":"e",
+"charge":3,
+"formula":"C7H22N3"
+},
+{
+"id":"cpd00063_e",
+"name":"Ca2+",
+"compartment":"e",
+"charge":2,
+"formula":"Ca"
+},
+{
+"id":"cpd02611_c",
+"name":"N-Acetyl-D-glucosamine1-phosphate",
+"compartment":"c",
+"charge":-2,
+"formula":"C8H14NO9P"
+},
+{
+"id":"cpd03847_e",
+"name":"Myristic acid",
+"compartment":"e",
+"charge":-1,
+"formula":"C14H27O2"
+},
+{
+"id":"cpd03443_c",
+"name":"3-Octaprenyl-4-hydroxybenzoate",
+"compartment":"c",
+"charge":-1,
+"formula":"C47H69O3"
+},
+{
+"id":"cpd11606_e",
+"name":"Menaquinone 7",
 "compartment":"e",
 "charge":0,
-"formula":"C9H11NO2"
+"formula":"C46H64O2"
+},
+{
+"id":"cpd11606_c",
+"name":"Menaquinone 7",
+"compartment":"c",
+"charge":0,
+"formula":"C46H64O2"
+},
+{
+"id":"cpd08371_c",
+"name":"Cobalt-precorrin 5",
+"compartment":"c",
+"charge":-6,
+"formula":"C45H46CoN4O16"
+},
+{
+"id":"cpd03914_c",
+"name":"Cob(II)yrinate diamide",
+"compartment":"c",
+"charge":-1,
+"formula":"C45H59CoN6O12"
+},
+{
+"id":"cpd03915_c",
+"name":"Cob(I)yrinate diamide",
+"compartment":"c",
+"charge":-2,
+"formula":"C45H59CoN6O12"
+},
+{
+"id":"cpd00305_e",
+"name":"Thiamin",
+"compartment":"e",
+"charge":1,
+"formula":"C12H17N4OS"
+},
+{
+"id":"cpd00322_e",
+"name":"L-Isoleucine",
+"compartment":"e",
+"charge":0,
+"formula":"C6H13NO2"
+},
+{
+"id":"cpd11425_c",
+"name":"2dmmq7",
+"compartment":"c",
+"charge":0,
+"formula":"C45H62O2"
+},
+{
+"id":"cpd01620_c",
+"name":"Precorrin 2",
+"compartment":"c",
+"charge":-7,
+"formula":"C42H41N4O16"
+},
+{
+"id":"cpd15323_c",
+"name":"1-Acyl-sn-glycero-3-phosphoglycerol octadecanoyl",
+"compartment":"c",
+"charge":-1,
+"formula":"C24H48O9P"
+},
+{
+"id":"cpd03444_c",
+"name":"2-Octaprenylphenol",
+"compartment":"c",
+"charge":0,
+"formula":"C46H70O"
+},
+{
+"id":"cpd03445_c",
+"name":"2-Octaprenyl-6-hydroxyphenol",
+"compartment":"c",
+"charge":0,
+"formula":"C46H70O2"
+},
+{
+"id":"cpd15475_c",
+"name":"glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
+"compartment":"c",
+"charge":-11,
+"formula":"C163H281N2O89P4"
+},
+{
+"id":"cpd00028_e",
+"name":"Heme",
+"compartment":"e",
+"charge":-2,
+"formula":"C34H30FeN4O4"
 },
 {
 "id":"cpd11538_c",
@@ -8555,6 +8443,118 @@
 "formula":"C26H49N2O9PRS"
 },
 {
+"id":"cpd00731_c",
+"name":"Ala-Ala",
+"compartment":"c",
+"charge":0,
+"formula":"C6H12N2O3"
+},
+{
+"id":"cpd02964_c",
+"name":"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate",
+"compartment":"c",
+"charge":-4,
+"formula":"C35H51N7O26P2"
+},
+{
+"id":"cpd03422_e",
+"name":"Cobinamide",
+"compartment":"e",
+"charge":3,
+"formula":"C48H75CoN11O8"
+},
+{
+"id":"cpd11522_c",
+"name":"5-methyl-3-hydroxy-hexanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C18H33N2O9PRS"
+},
+{
+"id":"cpd15485_c",
+"name":"heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-5,
+"formula":"C117H211N2O45P2"
+},
+{
+"id":"cpd15550_c",
+"name":"phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-10,
+"formula":"C131H230N2O63P4"
+},
+{
+"id":"cpd01188_c",
+"name":"Lanosterol",
+"compartment":"c",
+"charge":0,
+"formula":"C30H50O"
+},
+{
+"id":"cpd15488_c",
+"name":"heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA",
+"compartment":"c",
+"charge":-8,
+"formula":"C131H231N2O60P3"
+},
+{
+"id":"cpd03449_c",
+"name":"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone",
+"compartment":"c",
+"charge":0,
+"formula":"C48H72O4"
+},
+{
+"id":"cpd11591_e",
+"name":"Gly-Met",
+"compartment":"e",
+"charge":0,
+"formula":"C7H14N2O3S"
+},
+{
+"id":"cpd01476_c",
+"name":"Protoporphyrin",
+"compartment":"c",
+"charge":-2,
+"formula":"C34H32N4O4"
+},
+{
+"id":"cpd02083_c",
+"name":"CoproporphyrinogenIII",
+"compartment":"c",
+"charge":-4,
+"formula":"C36H40N4O8"
+},
+{
+"id":"cpd00791_c",
+"name":"ProtoporphyrinogenIX",
+"compartment":"c",
+"charge":-2,
+"formula":"C34H38N4O4"
+},
+{
+"id":"cpd11501_c",
+"name":"6-methyl-3-hydroxy-octanoyl-ACP",
+"compartment":"c",
+"charge":-1,
+"formula":"C20H37N2O9PRS"
+},
+{
+"id":"cpd01188_e",
+"name":"Lanosterol",
+"compartment":"e",
+"charge":0,
+"formula":"C30H50O"
+},
+{
+"id":"cpd00890_c",
+"name":"UDP-N-acetylmuramoyl-L-alanine",
+"compartment":"c",
+"charge":-3,
+"formula":"C23H33N4O20P2"
+},
+{
 "id":"cpd00136_e",
 "name":"4-Hydroxybenzoate",
 "compartment":"e",
@@ -8562,11 +8562,11 @@
 "formula":"C7H5O3"
 },
 {
-"id":"cpd00060_e",
-"name":"L-Methionine",
+"id":"cpd15605_e",
+"name":"Gly-Phe",
 "compartment":"e",
 "charge":0,
-"formula":"C5H11NO2S"
+"formula":"C11H14N2O3"
 }
 ],
 "reactions":[
@@ -10416,7 +10416,7 @@
 "gene_reaction_rule":"( 762984.10.peg.1790 or 762984.10.peg.2533 or 762984.10.peg.493 )",
 "notes":{
 "gapfill_data":{
-"gf.0":"reversed:<"
+"gf.1":"reversed:<"
 },
 "likelihood_str":"unknown"
 }
@@ -13107,7 +13107,7 @@
 "gene_reaction_rule":"762984.10.peg.1710",
 "notes":{
 "gapfill_data":{
-"gf.0":"reversed:<"
+"gf.1":"reversed:<"
 },
 "likelihood_str":"unknown"
 }
@@ -16904,7 +16904,7 @@
 "gene_reaction_rule":"762984.10.peg.208",
 "notes":{
 "gapfill_data":{
-"gf.0":"reversed:<"
+"gf.1":"reversed:<"
 },
 "likelihood_str":"unknown"
 }
@@ -20791,7 +20791,7 @@
 "gene_reaction_rule":"762984.10.peg.2890",
 "notes":{
 "gapfill_data":{
-"gf.0":"reversed:>"
+"gf.1":"reversed:>"
 },
 "likelihood_str":"unknown"
 }
@@ -24104,115 +24104,152 @@
 }
 },
 {
-"id":"rxn05365_c",
-"name":"6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase",
+"id":"rxn05039_c",
+"name":"R07280",
 "metabolites":{
-"cpd00001_c":1.0,
-"cpd11501_c":-1.0,
-"cpd11502_c":1.0
+"cpd00001_c":-1.0,
+"cpd00009_c":1.0,
+"cpd02720_c":-1.0,
+"cpd02882_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn00224_c",
-"name":"protoheme ferro-lyase (protoporphyrin-forming)",
+"id":"rxn10206_c",
+"name":"anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase",
 "metabolites":{
-"cpd00028_c":-1.0,
-"cpd00067_c":-2.0,
-"cpd01476_c":1.0,
-"cpd10515_c":1.0
+"cpd00010_c":1.0,
+"cpd00080_c":-1.0,
+"cpd11434_c":-1.0,
+"cpd15672_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03393_c",
-"name":"3-octaprenyl-4-hydroxybenzoate carboxy-lyase",
+"id":"rxn10337_c",
+"name":"isoheptadecanoyl-cardiolipin synthase",
 "metabolites":{
-"cpd00011_c":1.0,
-"cpd00067_c":-1.0,
-"cpd03443_c":-1.0,
-"cpd03444_c":1.0
+"cpd00100_c":1.0,
+"cpd15722_c":-2.0,
+"cpd15794_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn11946_c",
-"name":"R05614",
-"metabolites":{
-"cpd00017_c":-1.0,
-"cpd00019_c":1.0,
-"cpd00067_c":1.0,
-"cpd03449_c":-1.0,
-"cpd15560_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03891_c",
-"name":"R05612",
+"id":"rxn12008_c",
+"name":"R05611",
 "metabolites":{
 "cpd00012_c":1.0,
 "cpd00067_c":1.0,
 "cpd00113_c":-1.0,
-"cpd00906_c":-1.0,
-"cpd02590_c":1.0
+"cpd02557_c":1.0,
+"cpd02590_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05361_c",
-"name":"4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase",
+"id":"rxn10161_c",
+"name":"Octadecanoate transport via proton symport",
 "metabolites":{
-"cpd00001_c":1.0,
-"cpd11497_c":-1.0,
-"cpd11498_c":1.0
+"cpd00067_c":1.0,
+"cpd00067_e":-1.0,
+"cpd01080_c":1.0,
+"cpd01080_e":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03917_c",
+"name":"D-glycero-beta-D-manno-heptose-7-phosphate aldose-ketose-isomerase",
+"metabolites":{
+"cpd00238_c":-1.0,
+"cpd04918_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn12851_c",
+"name":"Gly-Try ABC transporters",
+"metabolites":{
+"cpd00001_c":-1.0,
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00067_c":1.0,
+"cpd15606_c":1.0,
+"cpd15606_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn09677_c",
+"name":"glutathione (ox) transport via diffusion (extracellular to periplasm)",
+"metabolites":{
+"cpd00111_c":1.0,
+"cpd00111_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
@@ -24233,46 +24270,353 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn08620_c",
-"name":"glucosyltransferase III (LPS core synthesis)",
+"id":"rxn04047_c",
+"name":"R05809",
+"metabolites":{
+"cpd00017_c":1.0,
+"cpd00019_c":-1.0,
+"cpd08369_c":1.0,
+"cpd08370_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08583_c",
+"name":"galactosyltransferase I (LPS core synthesis)",
 "metabolites":{
 "cpd00014_c":1.0,
 "cpd00026_c":-1.0,
-"cpd15475_c":-1.0,
-"cpd15477_c":1.0
+"cpd15469_c":1.0,
+"cpd15479_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn08333_c",
-"name":"1,4-dihydroxy-2-naphthoate octaprenyltransferase",
+"id":"rxn05368_c",
+"name":"8-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase",
 "metabolites":{
-"cpd00011_c":1.0,
-"cpd00012_c":1.0,
-"cpd02295_c":-1.0,
-"cpd02557_c":-1.0,
-"cpd15353_c":1.0
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11504_c":-1.0,
+"cpd11505_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08713_c",
+"name":"heptosyltransferase IV (LPS core synthesis)",
+"metabolites":{
+"cpd00008_c":1.0,
+"cpd03831_c":-1.0,
+"cpd15432_c":1.0,
+"cpd15477_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03916_c",
+"name":"ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00012_c":1.0,
+"cpd03830_c":1.0,
+"cpd04920_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn10338_c",
+"name":"anteisoheptadecanoyl-cardiolipin synthase",
+"metabolites":{
+"cpd00100_c":1.0,
+"cpd15723_c":-2.0,
+"cpd15795_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05389_c",
+"name":"7-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11525_c":-1.0,
+"cpd11526_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn10609_c",
+"name":"ATP:L-threonine O-phosphotransferase",
+"metabolites":{
+"cpd00002_c":1.0,
+"cpd00008_c":-1.0,
+"cpd00067_c":-1.0,
+"cpd00161_c":1.0,
+"cpd08928_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05406_c",
+"name":"15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11542_c":-1.0,
+"cpd11543_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04050_c",
+"name":"R05812",
+"metabolites":{
+"cpd00005_c":1.0,
+"cpd00006_c":-1.0,
+"cpd00067_c":1.0,
+"cpd08372_c":1.0,
+"cpd08373_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03397_c",
+"name":"UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase",
+"metabolites":{
+"cpd00017_c":-1.0,
+"cpd00019_c":1.0,
+"cpd00067_c":1.0,
+"cpd03447_c":-1.0,
+"cpd03448_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05369_c",
+"name":"8-methyl-3-hydroxy-decanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11505_c":-1.0,
+"cpd11506_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05360_c",
+"name":"4-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11496_c":-1.0,
+"cpd11497_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05380_c",
+"name":"14-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11516_c":-1.0,
+"cpd11517_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn10832_c",
+"name":"CoA transporter",
+"metabolites":{
+"cpd00010_c":1.0,
+"cpd00010_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03918_c",
+"name":"ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00067_c":1.0,
+"cpd04918_c":-1.0,
+"cpd08316_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn09225_c",
+"name":"rhamnosyltransferase I (LPS core biosynthesis)",
+"metabolites":{
+"cpd00067_c":-4.0,
+"cpd00297_c":1.0,
+"cpd02113_c":-1.0,
+"cpd15489_c":1.0,
+"cpd15492_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn12224_c",
+"name":"2-octaprenyl-6-methoxyphenol hydroxylase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00007_c":-1.0,
+"cpd03446_c":-1.0,
+"cpd03447_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -24294,204 +24638,78 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn10204_c",
-"name":"acyl-CoA:sn-glycerol-3-phosphate 1-O-acyltransferase",
-"metabolites":{
-"cpd00010_c":1.0,
-"cpd00080_c":-1.0,
-"cpd00327_c":-1.0,
-"cpd15329_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00213_c",
-"name":"UTP:alpha-D-glucose-1-phosphate uridylyltransferase",
-"metabolites":{
-"cpd00012_c":1.0,
-"cpd00026_c":1.0,
-"cpd00062_c":-1.0,
-"cpd00089_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02476_c",
-"name":"Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase",
-"metabolites":{
-"cpd00009_c":1.0,
-"cpd00061_c":-1.0,
-"cpd00932_c":1.0,
-"cpd02030_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08708_c",
-"name":"LPS heptose kinase I (LPS core synthesis)",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00067_c":4.0,
-"cpd15484_c":-1.0,
-"cpd15549_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10213_c",
-"name":"stearoyl-1-acylglycerol-3-phosphate O-acyltransferase",
-"metabolites":{
-"cpd00010_c":1.0,
-"cpd00067_c":-1.0,
-"cpd00327_c":-1.0,
-"cpd15329_c":-1.0,
-"cpd15526_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05393_c",
-"name":"9-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11529_c":-1.0,
-"cpd11530_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn09657_c",
-"name":"Thiamine transporter",
-"metabolites":{
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0,
-"cpd00305_c":1.0,
-"cpd00305_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05148_c",
-"name":"Heme transport via ABC system",
+"id":"rxn05335_c",
+"name":"(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase",
 "metabolites":{
 "cpd00001_c":-1.0,
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00028_c":1.0,
-"cpd00028_e":-1.0,
-"cpd00067_c":1.0
+"cpd11467_c":-1.0,
+"cpd11484_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03917_c",
-"name":"D-glycero-beta-D-manno-heptose-7-phosphate aldose-ketose-isomerase",
+"id":"rxn10474_c",
+"name":"cobalt (Co+2) transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"cpd00238_c":-1.0,
-"cpd04918_c":1.0
+"cpd00149_c":1.0,
+"cpd00149_e":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn04049_c",
-"name":"R05811",
+"id":"rxn06848_c",
+"name":"R05075",
 "metabolites":{
-"cpd00001_c":1.0,
-"cpd00017_c":1.0,
-"cpd00019_c":-1.0,
-"cpd00067_c":-1.0,
-"cpd00071_c":-1.0,
-"cpd08371_c":1.0,
-"cpd08372_c":-1.0
+"cpd03587_c":1.0,
+"cpd03736_c":-1.0,
+"cpd11466_c":-1.0,
+"cpd11493_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03511_c",
+"name":"ADP-D-glycero-D-manno-heptose 6-epimerase",
+"metabolites":{
+"cpd03830_c":-1.0,
+"cpd03831_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -24511,162 +24729,308 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn12225_c",
-"name":"2-octaprenylphenol hydroxylase",
+"id":"rxn05376_c",
+"name":"12-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase",
 "metabolites":{
-"cpd00007_c":-1.0,
-"cpd03444_c":-2.0,
-"cpd03445_c":2.0
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11512_c":-1.0,
+"cpd11513_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn10094_c",
-"name":"S-adenosylmethione:2-demethylmenaquinone methyltransferase",
+"id":"rxn05372_c",
+"name":"10-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase",
 "metabolites":{
-"cpd00017_c":-1.0,
-"cpd00019_c":1.0,
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11508_c":-1.0,
+"cpd11509_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03891_c",
+"name":"R05612",
+"metabolites":{
+"cpd00012_c":1.0,
 "cpd00067_c":1.0,
-"cpd15352_c":-1.0,
-"cpd15500_c":1.0
+"cpd00113_c":-1.0,
+"cpd00906_c":-1.0,
+"cpd02590_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05029_c",
-"name":"ATP:cobinamide Cobeta-adenosyltransferase",
+"id":"rxn08708_c",
+"name":"LPS heptose kinase I (LPS core synthesis)",
 "metabolites":{
 "cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00067_c":4.0,
+"cpd15484_c":-1.0,
+"cpd15549_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08333_c",
+"name":"1,4-dihydroxy-2-naphthoate octaprenyltransferase",
+"metabolites":{
+"cpd00011_c":1.0,
+"cpd00012_c":1.0,
+"cpd02295_c":-1.0,
+"cpd02557_c":-1.0,
+"cpd15353_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05405_c",
+"name":"15-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
 "cpd00067_c":-1.0,
-"cpd00421_c":1.0,
-"cpd03422_c":-1.0,
-"cpd03918_c":1.0
+"cpd11541_c":-1.0,
+"cpd11542_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn10163_c",
-"name":"Tetradecanoate transport via proton symport",
+"id":"rxn05394_c",
+"name":"9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase",
 "metabolites":{
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0,
-"cpd03847_c":1.0,
-"cpd03847_e":-1.0
+"cpd00001_c":1.0,
+"cpd11530_c":-1.0,
+"cpd11531_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03395_c",
-"name":"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase",
+"id":"rxn13477_c",
+"name":"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units)",
 "metabolites":{
-"cpd00017_c":-1.0,
-"cpd00019_c":1.0,
-"cpd00067_c":1.0,
-"cpd03445_c":-1.0,
-"cpd03446_c":1.0
+"cpd00012_c":3.0,
+"cpd00067_c":3.0,
+"cpd00113_c":-3.0,
+"cpd00350_c":-1.0,
+"cpd00906_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn02287_c",
-"name":"S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
+"id":"rxn01513_c",
+"name":"ATP:dTMP phosphotransferase",
 "metabolites":{
-"cpd00017_c":-2.0,
-"cpd00019_c":2.0,
-"cpd00067_c":1.0,
-"cpd00774_c":-1.0,
-"cpd01620_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05244_c",
-"name":"TRANS-RXNBWI-115637.ce.maizeexp.ILE",
-"metabolites":{
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0,
-"cpd00322_c":1.0,
-"cpd00322_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05514_c",
-"name":"calcium transport in/out via proton antiporter",
-"metabolites":{
-"cpd00063_c":1.0,
-"cpd00063_e":-1.0,
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
 "cpd00067_c":-1.0,
-"cpd00067_e":1.0
+"cpd00297_c":1.0,
+"cpd00298_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn13399_c",
+"name":"Squalene epoxidase, endoplasmic reticular (NAD)",
+"metabolites":{
+"cpd00001_c":-1.0,
+"cpd00003_c":-1.0,
+"cpd00004_c":1.0,
+"cpd00007_c":1.0,
+"cpd00067_c":1.0,
+"cpd00559_c":1.0,
+"cpd00776_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05397_c",
+"name":"11-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11533_c":-1.0,
+"cpd11534_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08801_c",
+"name":"Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:0) (periplasm)",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00067_c":-1.0,
+"cpd00080_c":-1.0,
+"cpd01080_c":-1.0,
+"cpd15329_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03439_c",
+"name":"CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase",
+"metabolites":{
+"cpd00046_c":1.0,
+"cpd00067_c":1.0,
+"cpd02546_c":-1.0,
+"cpd03585_c":-1.0,
+"cpd03586_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04051_c",
+"name":"R05813",
+"metabolites":{
+"cpd00011_c":-1.0,
+"cpd00017_c":2.0,
+"cpd00019_c":-2.0,
+"cpd00067_c":-1.0,
+"cpd08373_c":1.0,
+"cpd08375_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00086_c",
+"name":"glutathione:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00042_c":2.0,
+"cpd00067_c":-1.0,
+"cpd00111_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
@@ -24688,180 +25052,7 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05373_c",
-"name":"10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11509_c":-1.0,
-"cpd11510_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02290_c",
-"name":"(S)-2,3-Epoxysqualene mutase (cyclizing, lanosterol-forming)",
-"metabolites":{
-"cpd00776_c":1.0,
-"cpd01188_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn13477_c",
-"name":"(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units)",
-"metabolites":{
-"cpd00012_c":3.0,
-"cpd00067_c":3.0,
-"cpd00113_c":-3.0,
-"cpd00350_c":-1.0,
-"cpd00906_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10199_c",
-"name":"Peptidoglycan subunit synthesis",
-"metabolites":{
-"cpd02229_c":1.0,
-"cpd03495_c":-1.0,
-"cpd15665_c":1.0,
-"cpd15666_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn09225_c",
-"name":"rhamnosyltransferase I (LPS core biosynthesis)",
-"metabolites":{
-"cpd00067_c":-4.0,
-"cpd00297_c":1.0,
-"cpd02113_c":-1.0,
-"cpd15489_c":1.0,
-"cpd15492_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn06991_c",
-"name":"GcpE protein; nuclear gene for chloroplast product",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd08301_c":-1.0,
-"cpd08615_c":1.0,
-"cpd12072_c":-1.0,
-"cpd12139_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn13661_c",
-"name":"S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)",
-"metabolites":{
-"cpd00017_c":1.0,
-"cpd00019_c":-1.0,
-"cpd00067_c":-1.0,
-"cpd11425_c":1.0,
-"cpd11606_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02056_c",
-"name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
-"metabolites":{
-"cpd00067_c":2.0,
-"cpd00557_c":1.0,
-"cpd03426_c":-1.0,
-"cpd10515_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10215_c",
-"name":"anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase",
-"metabolites":{
-"cpd00010_c":1.0,
-"cpd00067_c":1.0,
-"cpd11434_c":-1.0,
-"cpd15672_c":-1.0,
-"cpd15678_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -24880,298 +25071,26 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn02304_c",
-"name":"protoporphyrinogen-IX:oxygen oxidoreductase",
+"id":"rxn05514_c",
+"name":"calcium transport in/out via proton antiporter",
 "metabolites":{
-"cpd00001_c":-6.0,
-"cpd00007_c":3.0,
-"cpd00791_c":2.0,
-"cpd01476_c":-2.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03511_c",
-"name":"ADP-D-glycero-D-manno-heptose 6-epimerase",
-"metabolites":{
-"cpd03830_c":-1.0,
-"cpd03831_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00851_c",
-"name":"D-alanine:D-alanine ligase (ADP-forming)",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00067_c":1.0,
-"cpd00117_c":-2.0,
-"cpd00731_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08619_c",
-"name":"glucosyltransferase II (LPS core synthesis)",
-"metabolites":{
-"cpd00014_c":1.0,
-"cpd00026_c":-1.0,
-"cpd15469_c":-1.0,
-"cpd15475_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05301_c",
-"name":"TRANS-RXNBWI-115637.ce.maizeexp.TYR",
-"metabolites":{
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0,
-"cpd00069_c":1.0,
-"cpd00069_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05360_c",
-"name":"4-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
+"cpd00063_c":1.0,
+"cpd00063_e":-1.0,
 "cpd00067_c":-1.0,
-"cpd11496_c":-1.0,
-"cpd11497_c":1.0
+"cpd00067_e":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03919_c",
-"name":"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase",
-"metabolites":{
-"cpd00001_c":-1.0,
-"cpd00009_c":1.0,
-"cpd04920_c":1.0,
-"cpd08316_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08583_c",
-"name":"galactosyltransferase I (LPS core synthesis)",
-"metabolites":{
-"cpd00014_c":1.0,
-"cpd00026_c":-1.0,
-"cpd15469_c":1.0,
-"cpd15479_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05376_c",
-"name":"12-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11512_c":-1.0,
-"cpd11513_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00789_c",
-"name":"1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00012_c":1.0,
-"cpd00067_c":1.0,
-"cpd00103_c":-1.0,
-"cpd01775_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05389_c",
-"name":"7-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11525_c":-1.0,
-"cpd11526_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10609_c",
-"name":"ATP:L-threonine O-phosphotransferase",
-"metabolites":{
-"cpd00002_c":1.0,
-"cpd00008_c":-1.0,
-"cpd00067_c":-1.0,
-"cpd00161_c":1.0,
-"cpd08928_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02008_c",
-"name":"UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00067_c":1.0,
-"cpd00186_c":-1.0,
-"cpd00525_c":1.0,
-"cpd00890_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10832_c",
-"name":"CoA transporter",
-"metabolites":{
-"cpd00010_c":1.0,
-"cpd00010_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08711_c",
-"name":"RXN0-5061.c",
-"metabolites":{
-"cpd00008_c":1.0,
-"cpd03831_c":-1.0,
-"cpd15484_c":1.0,
-"cpd15485_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
@@ -25189,62 +25108,424 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05335_c",
-"name":"(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase",
+"id":"rxn00293_c",
+"name":"UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase",
 "metabolites":{
-"cpd00001_c":-1.0,
-"cpd11467_c":-1.0,
-"cpd11484_c":1.0
+"cpd00012_c":1.0,
+"cpd00037_c":1.0,
+"cpd00062_c":-1.0,
+"cpd02611_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03916_c",
-"name":"ATP:D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase",
+"id":"rxn08618_c",
+"name":"glucosyltransferase I (LPS core synthesis)",
+"metabolites":{
+"cpd00014_c":1.0,
+"cpd00026_c":-1.0,
+"cpd00067_c":4.0,
+"cpd15479_c":1.0,
+"cpd15489_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05029_c",
+"name":"ATP:cobinamide Cobeta-adenosyltransferase",
 "metabolites":{
 "cpd00002_c":-1.0,
-"cpd00012_c":1.0,
-"cpd03830_c":1.0,
-"cpd04920_c":-1.0
+"cpd00067_c":-1.0,
+"cpd00421_c":1.0,
+"cpd03422_c":-1.0,
+"cpd03918_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn10338_c",
-"name":"anteisoheptadecanoyl-cardiolipin synthase",
+"id":"rxn10163_c",
+"name":"Tetradecanoate transport via proton symport",
 "metabolites":{
-"cpd00100_c":1.0,
-"cpd15723_c":-2.0,
-"cpd15795_c":1.0
+"cpd00067_c":1.0,
+"cpd00067_e":-1.0,
+"cpd03847_c":1.0,
+"cpd03847_e":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03893_c",
+"name":"all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase",
+"metabolites":{
+"cpd00012_c":1.0,
+"cpd00067_c":1.0,
+"cpd00136_c":-1.0,
+"cpd02557_c":-1.0,
+"cpd03443_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn12664_c",
+"name":"Menaquinone transport",
+"metabolites":{
+"cpd11606_c":1.0,
+"cpd11606_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04048_c",
+"name":"cobalt-precorrin-4 methyltransferase",
+"metabolites":{
+"cpd00017_c":1.0,
+"cpd00019_c":-1.0,
+"cpd00067_c":-1.0,
+"cpd08370_c":1.0,
+"cpd08371_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn10482_c",
+"name":"cob(II)yrinic acid a,c-diamide reductase",
+"metabolites":{
+"cpd00003_c":-1.0,
+"cpd00004_c":1.0,
+"cpd00067_c":-1.0,
+"cpd03914_c":2.0,
+"cpd03915_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn09657_c",
+"name":"Thiamine transporter",
+"metabolites":{
+"cpd00067_c":1.0,
+"cpd00067_e":-1.0,
+"cpd00305_c":1.0,
+"cpd00305_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05244_c",
+"name":"TRANS-RXNBWI-115637.ce.maizeexp.ILE",
+"metabolites":{
+"cpd00067_c":1.0,
+"cpd00067_e":-1.0,
+"cpd00322_c":1.0,
+"cpd00322_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05267_c",
+"name":"1,4-dihydroxy-2-naphthoate octaprenyltransferase",
+"metabolites":{
+"cpd00003_c":1.0,
+"cpd00004_c":-1.0,
+"cpd00011_c":-1.0,
+"cpd00012_c":-1.0,
+"cpd00067_c":-1.0,
+"cpd02295_c":1.0,
+"cpd02590_c":1.0,
+"cpd11425_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02287_c",
+"name":"S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
+"metabolites":{
+"cpd00017_c":-2.0,
+"cpd00019_c":2.0,
+"cpd00067_c":1.0,
+"cpd00774_c":-1.0,
+"cpd01620_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08815_c",
+"name":"Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:0) (periplasm)",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00067_c":-1.0,
+"cpd01080_c":-1.0,
+"cpd02090_c":-1.0,
+"cpd15323_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn12225_c",
+"name":"2-octaprenylphenol hydroxylase",
+"metabolites":{
+"cpd00007_c":-1.0,
+"cpd03444_c":-2.0,
+"cpd03445_c":2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08620_c",
+"name":"glucosyltransferase III (LPS core synthesis)",
+"metabolites":{
+"cpd00014_c":1.0,
+"cpd00026_c":-1.0,
+"cpd15475_c":-1.0,
+"cpd15477_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04046_c",
+"name":"Cobalt-precorrin-2 C(20)-methyltransferase",
+"metabolites":{
+"cpd00017_c":1.0,
+"cpd00019_c":-1.0,
+"cpd00067_c":2.0,
+"cpd08368_c":1.0,
+"cpd08369_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05148_c",
+"name":"Heme transport via ABC system",
+"metabolites":{
+"cpd00001_c":-1.0,
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00028_c":1.0,
+"cpd00028_e":-1.0,
+"cpd00067_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05401_c",
+"name":"13-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11537_c":-1.0,
+"cpd11538_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn09163_c",
+"name":"Phospholipase A2 (phosphatidylglycerol, n-C18:0) (periplasm)",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00067_c":-1.0,
+"cpd01080_c":-1.0,
+"cpd15323_c":-1.0,
+"cpd15540_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03164_c",
+"name":"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00067_c":1.0,
+"cpd00731_c":-1.0,
+"cpd02964_c":-1.0,
+"cpd02968_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02186_c",
+"name":"2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd00668_c":-1.0,
+"cpd02498_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -25266,108 +25547,25 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03439_c",
-"name":"CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase",
+"id":"rxn05373_c",
+"name":"10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase",
 "metabolites":{
-"cpd00046_c":1.0,
-"cpd00067_c":1.0,
-"cpd02546_c":-1.0,
-"cpd03585_c":-1.0,
-"cpd03586_c":1.0
+"cpd00001_c":1.0,
+"cpd11509_c":-1.0,
+"cpd11510_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02303_c",
-"name":"Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)",
-"metabolites":{
-"cpd00001_c":-2.0,
-"cpd00007_c":1.0,
-"cpd00011_c":-2.0,
-"cpd00067_c":2.0,
-"cpd00791_c":-1.0,
-"cpd02083_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00056_c",
-"name":"Fe(II):oxygen oxidoreductase",
-"metabolites":{
-"cpd00001_c":-2.0,
-"cpd00007_c":1.0,
-"cpd00067_c":4.0,
-"cpd10515_c":4.0,
-"cpd10516_c":-4.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10206_c",
-"name":"anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase",
-"metabolites":{
-"cpd00010_c":1.0,
-"cpd00080_c":-1.0,
-"cpd11434_c":-1.0,
-"cpd15672_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn04051_c",
-"name":"R05813",
-"metabolites":{
-"cpd00011_c":-1.0,
-"cpd00017_c":2.0,
-"cpd00019_c":-2.0,
-"cpd00067_c":-1.0,
-"cpd08373_c":1.0,
-"cpd08375_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -25385,44 +25583,160 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn02186_c",
-"name":"2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)",
+"id":"rxn08619_c",
+"name":"glucosyltransferase II (LPS core synthesis)",
 "metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
+"cpd00014_c":1.0,
+"cpd00026_c":-1.0,
+"cpd15469_c":-1.0,
+"cpd15475_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn06991_c",
+"name":"GcpE protein; nuclear gene for chloroplast product",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd08301_c":-1.0,
+"cpd08615_c":1.0,
+"cpd12072_c":-1.0,
+"cpd12139_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05377_c",
+"name":"12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11513_c":-1.0,
+"cpd11514_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08710_c",
+"name":"RXN0-5118.c",
+"metabolites":{
+"cpd00008_c":1.0,
+"cpd00067_c":-3.0,
+"cpd03587_c":-1.0,
+"cpd03831_c":-1.0,
+"cpd15485_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00213_c",
+"name":"UTP:alpha-D-glucose-1-phosphate uridylyltransferase",
+"metabolites":{
+"cpd00012_c":1.0,
+"cpd00026_c":1.0,
+"cpd00062_c":-1.0,
+"cpd00089_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05381_c",
+"name":"14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11517_c":-1.0,
+"cpd11518_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03393_c",
+"name":"3-octaprenyl-4-hydroxybenzoate carboxy-lyase",
+"metabolites":{
+"cpd00011_c":1.0,
 "cpd00067_c":-1.0,
-"cpd00668_c":-1.0,
-"cpd02498_c":1.0
+"cpd03443_c":-1.0,
+"cpd03444_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn12860_c",
-"name":"ATP-dependent permease AUS1",
+"id":"rxn03535_c",
+"name":"ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase",
 "metabolites":{
-"cpd01188_c":1.0,
-"cpd01188_e":-1.0
+"cpd00002_c":1.0,
+"cpd00067_c":1.0,
+"cpd00421_c":-1.0,
+"cpd03915_c":1.0,
+"cpd03916_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
@@ -25441,240 +25755,7 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08712_c",
-"name":"heptosyltransferase III (LPS core synthesis)",
-"metabolites":{
-"cpd00008_c":1.0,
-"cpd03831_c":-1.0,
-"cpd15488_c":1.0,
-"cpd15549_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn01513_c",
-"name":"ATP:dTMP phosphotransferase",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00067_c":-1.0,
-"cpd00297_c":1.0,
-"cpd00298_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05398_c",
-"name":"11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11534_c":-1.0,
-"cpd11535_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03893_c",
-"name":"all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase",
-"metabolites":{
-"cpd00012_c":1.0,
-"cpd00067_c":1.0,
-"cpd00136_c":-1.0,
-"cpd02557_c":-1.0,
-"cpd03443_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10474_c",
-"name":"cobalt (Co+2) transport via diffusion (extracellular to periplasm)",
-"metabolites":{
-"cpd00149_c":1.0,
-"cpd00149_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00293_c",
-"name":"UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase",
-"metabolites":{
-"cpd00012_c":1.0,
-"cpd00037_c":1.0,
-"cpd00062_c":-1.0,
-"cpd02611_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02286_c",
-"name":"UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00035_c":-1.0,
-"cpd00067_c":1.0,
-"cpd00773_c":-1.0,
-"cpd00890_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08954_c",
-"name":"3-deoxy-D-manno-octulosonic acid transferase III (LPS core biosynthesis)",
-"metabolites":{
-"cpd00046_c":1.0,
-"cpd00067_c":1.0,
-"cpd02546_c":-1.0,
-"cpd15492_c":1.0,
-"cpd15550_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn09163_c",
-"name":"Phospholipase A2 (phosphatidylglycerol, n-C18:0) (periplasm)",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd00067_c":-1.0,
-"cpd01080_c":-1.0,
-"cpd15323_c":-1.0,
-"cpd15540_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08618_c",
-"name":"glucosyltransferase I (LPS core synthesis)",
-"metabolites":{
-"cpd00014_c":1.0,
-"cpd00026_c":-1.0,
-"cpd00067_c":4.0,
-"cpd15479_c":1.0,
-"cpd15489_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn04147_c",
-"name":"squalene synthase",
-"metabolites":{
-"cpd00005_c":1.0,
-"cpd00006_c":-1.0,
-"cpd00012_c":-2.0,
-"cpd00067_c":-1.0,
-"cpd00350_c":2.0,
-"cpd00559_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn09677_c",
-"name":"glutathione (ox) transport via diffusion (extracellular to periplasm)",
-"metabolites":{
-"cpd00111_c":1.0,
-"cpd00111_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -25695,26 +25776,102 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn04047_c",
-"name":"R05809",
+"id":"rxn08954_c",
+"name":"3-deoxy-D-manno-octulosonic acid transferase III (LPS core biosynthesis)",
 "metabolites":{
-"cpd00017_c":1.0,
-"cpd00019_c":-1.0,
-"cpd08369_c":1.0,
-"cpd08370_c":-1.0
+"cpd00046_c":1.0,
+"cpd00067_c":1.0,
+"cpd02546_c":-1.0,
+"cpd15492_c":1.0,
+"cpd15550_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02290_c",
+"name":"(S)-2,3-Epoxysqualene mutase (cyclizing, lanosterol-forming)",
+"metabolites":{
+"cpd00776_c":1.0,
+"cpd01188_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03395_c",
+"name":"S-adenosyl-L-methionine:3-(all-trans-octaprenyl)benzene-1,2-diol 2-O-methyltransferase",
+"metabolites":{
+"cpd00017_c":-1.0,
+"cpd00019_c":1.0,
+"cpd00067_c":1.0,
+"cpd03445_c":-1.0,
+"cpd03446_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03182_c",
+"name":"CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase",
+"metabolites":{
+"cpd00046_c":1.0,
+"cpd00067_c":1.0,
+"cpd02546_c":-1.0,
+"cpd02993_c":-1.0,
+"cpd03585_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05402_c",
+"name":"13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11538_c":-1.0,
+"cpd11539_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -25735,247 +25892,7 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02011_c",
-"name":"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)",
-"metabolites":{
-"cpd00002_c":-1.0,
-"cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00067_c":1.0,
-"cpd00516_c":-1.0,
-"cpd00525_c":-1.0,
-"cpd02964_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn01505_c",
-"name":"N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase",
-"metabolites":{
-"cpd00293_c":-1.0,
-"cpd02611_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn12664_c",
-"name":"Menaquinone transport",
-"metabolites":{
-"cpd11606_c":1.0,
-"cpd11606_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn04046_c",
-"name":"Cobalt-precorrin-2 C(20)-methyltransferase",
-"metabolites":{
-"cpd00017_c":1.0,
-"cpd00019_c":-1.0,
-"cpd00067_c":2.0,
-"cpd08368_c":1.0,
-"cpd08369_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02063_c",
-"name":"squalene,NADPH:oxygen oxidoreductase (2,3-epoxidizing)",
-"metabolites":{
-"cpd00001_c":-1.0,
-"cpd00005_c":1.0,
-"cpd00006_c":-1.0,
-"cpd00007_c":1.0,
-"cpd00067_c":1.0,
-"cpd00559_c":1.0,
-"cpd00776_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn02774_c",
-"name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
-"metabolites":{
-"cpd00003_c":-1.0,
-"cpd00004_c":1.0,
-"cpd00067_c":2.0,
-"cpd01620_c":-1.0,
-"cpd03426_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03182_c",
-"name":"CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase",
-"metabolites":{
-"cpd00046_c":1.0,
-"cpd00067_c":1.0,
-"cpd02546_c":-1.0,
-"cpd02993_c":-1.0,
-"cpd03585_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn06979_c",
-"name":"cobyrinate:L-glutamine amido-ligase (ADP-forming)",
-"metabolites":{
-"cpd00001_c":2.0,
-"cpd00002_c":2.0,
-"cpd00008_c":-2.0,
-"cpd00009_c":-2.0,
-"cpd00023_c":-2.0,
-"cpd00053_c":2.0,
-"cpd00067_c":-2.0,
-"cpd03421_c":1.0,
-"cpd03914_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05368_c",
-"name":"8-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11504_c":-1.0,
-"cpd11505_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05380_c",
-"name":"14-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11516_c":-1.0,
-"cpd11517_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10161_c",
-"name":"Octadecanoate transport via proton symport",
-"metabolites":{
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0,
-"cpd01080_c":1.0,
-"cpd01080_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn00467_c",
-"name":"L-Ornithine:2-oxo-acid aminotransferase",
-"metabolites":{
-"cpd00023_c":-1.0,
-"cpd00024_c":1.0,
-"cpd00064_c":1.0,
-"cpd00858_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -25999,29 +25916,346 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03164_c",
-"name":"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate:D-alanyl-D-alanine ligase(ADP-forming)",
+"id":"rxn08712_c",
+"name":"heptosyltransferase III (LPS core synthesis)",
 "metabolites":{
-"cpd00002_c":-1.0,
 "cpd00008_c":1.0,
-"cpd00009_c":1.0,
-"cpd00067_c":1.0,
-"cpd00731_c":-1.0,
-"cpd02964_c":-1.0,
-"cpd02968_c":1.0
+"cpd03831_c":-1.0,
+"cpd15488_c":1.0,
+"cpd15549_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05398_c",
+"name":"11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd11534_c":-1.0,
+"cpd11535_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn11946_c",
+"name":"R05614",
+"metabolites":{
+"cpd00017_c":-1.0,
+"cpd00019_c":1.0,
+"cpd00067_c":1.0,
+"cpd03449_c":-1.0,
+"cpd15560_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05535_c",
+"name":"oligopeptide-transporting ATPase",
+"metabolites":{
+"cpd00001_c":-1.0,
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00067_c":1.0,
+"cpd11591_c":1.0,
+"cpd11591_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00789_c",
+"name":"1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00012_c":1.0,
+"cpd00067_c":1.0,
+"cpd00103_c":-1.0,
+"cpd01775_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02056_c",
+"name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
+"metabolites":{
+"cpd00067_c":2.0,
+"cpd00557_c":1.0,
+"cpd03426_c":-1.0,
+"cpd10515_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00056_c",
+"name":"Fe(II):oxygen oxidoreductase",
+"metabolites":{
+"cpd00001_c":-2.0,
+"cpd00007_c":1.0,
+"cpd00067_c":4.0,
+"cpd10515_c":4.0,
+"cpd10516_c":-4.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05393_c",
+"name":"9-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11529_c":-1.0,
+"cpd11530_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn03919_c",
+"name":"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphohydrolase",
+"metabolites":{
+"cpd00001_c":-1.0,
+"cpd00009_c":1.0,
+"cpd04920_c":1.0,
+"cpd08316_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00224_c",
+"name":"protoheme ferro-lyase (protoporphyrin-forming)",
+"metabolites":{
+"cpd00028_c":-1.0,
+"cpd00067_c":-2.0,
+"cpd01476_c":1.0,
+"cpd10515_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02011_c",
+"name":"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:(L)-meso-2,6-diaminoheptanedioate gamma-ligase (ADP-forming)",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00067_c":1.0,
+"cpd00516_c":-1.0,
+"cpd00525_c":-1.0,
+"cpd02964_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08709_c",
+"name":"LPS heptose kinase II (LPS core synthesis)",
+"metabolites":{
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00067_c":1.0,
+"cpd15488_c":-1.0,
+"cpd15550_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02303_c",
+"name":"Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)",
+"metabolites":{
+"cpd00001_c":-2.0,
+"cpd00007_c":1.0,
+"cpd00011_c":-2.0,
+"cpd00067_c":2.0,
+"cpd00791_c":-1.0,
+"cpd02083_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02476_c",
+"name":"Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase",
+"metabolites":{
+"cpd00009_c":1.0,
+"cpd00061_c":-1.0,
+"cpd00932_c":1.0,
+"cpd02030_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04049_c",
+"name":"R05811",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00017_c":1.0,
+"cpd00019_c":-1.0,
+"cpd00067_c":-1.0,
+"cpd00071_c":-1.0,
+"cpd08371_c":1.0,
+"cpd08372_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02288_c",
+"name":"Uroporphyrinogen-III carboxy-lyase",
+"metabolites":{
+"cpd00011_c":-4.0,
+"cpd00067_c":4.0,
+"cpd00774_c":1.0,
+"cpd02083_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05364_c",
+"name":"6-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase",
+"metabolites":{
+"cpd00005_c":-1.0,
+"cpd00006_c":1.0,
+"cpd00067_c":-1.0,
+"cpd11500_c":-1.0,
+"cpd11501_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -26039,7 +26273,7 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -26059,122 +26293,83 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn03397_c",
-"name":"UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase",
+"id":"rxn03638_c",
+"name":"Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase",
+"metabolites":{
+"cpd00010_c":1.0,
+"cpd00022_c":-1.0,
+"cpd00067_c":1.0,
+"cpd02611_c":1.0,
+"cpd03671_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn02304_c",
+"name":"protoporphyrinogen-IX:oxygen oxidoreductase",
+"metabolites":{
+"cpd00001_c":-6.0,
+"cpd00007_c":3.0,
+"cpd00791_c":2.0,
+"cpd01476_c":-2.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn12860_c",
+"name":"ATP-dependent permease AUS1",
+"metabolites":{
+"cpd01188_c":1.0,
+"cpd01188_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn10094_c",
+"name":"S-adenosylmethione:2-demethylmenaquinone methyltransferase",
 "metabolites":{
 "cpd00017_c":-1.0,
 "cpd00019_c":1.0,
 "cpd00067_c":1.0,
-"cpd03447_c":-1.0,
-"cpd03448_c":1.0
+"cpd15352_c":-1.0,
+"cpd15500_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10482_c",
-"name":"cob(II)yrinic acid a,c-diamide reductase",
-"metabolites":{
-"cpd00003_c":-1.0,
-"cpd00004_c":1.0,
-"cpd00067_c":-1.0,
-"cpd03914_c":2.0,
-"cpd03915_c":-2.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05039_c",
-"name":"R07280",
-"metabolites":{
-"cpd00001_c":-1.0,
-"cpd00009_c":1.0,
-"cpd02720_c":-1.0,
-"cpd02882_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05381_c",
-"name":"14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11517_c":-1.0,
-"cpd11518_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn10337_c",
-"name":"isoheptadecanoyl-cardiolipin synthase",
-"metabolites":{
-"cpd00100_c":1.0,
-"cpd15722_c":-2.0,
-"cpd15794_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn12008_c",
-"name":"R05611",
-"metabolites":{
-"cpd00012_c":1.0,
-"cpd00067_c":1.0,
-"cpd00113_c":-1.0,
-"cpd02557_c":1.0,
-"cpd02590_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -26196,391 +26391,249 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05394_c",
-"name":"9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11530_c":-1.0,
-"cpd11531_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08709_c",
-"name":"LPS heptose kinase II (LPS core synthesis)",
+"id":"rxn00851_c",
+"name":"D-alanine:D-alanine ligase (ADP-forming)",
 "metabolites":{
 "cpd00002_c":-1.0,
 "cpd00008_c":1.0,
+"cpd00009_c":1.0,
 "cpd00067_c":1.0,
-"cpd15488_c":-1.0,
-"cpd15550_c":1.0
+"cpd00117_c":-2.0,
+"cpd00731_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05372_c",
-"name":"10-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase",
+"id":"rxn06979_c",
+"name":"cobyrinate:L-glutamine amido-ligase (ADP-forming)",
 "metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
+"cpd00001_c":2.0,
+"cpd00002_c":2.0,
+"cpd00008_c":-2.0,
+"cpd00009_c":-2.0,
+"cpd00023_c":-2.0,
+"cpd00053_c":2.0,
+"cpd00067_c":-2.0,
+"cpd03421_c":1.0,
+"cpd03914_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn04147_c",
+"name":"squalene synthase",
+"metabolites":{
+"cpd00005_c":1.0,
+"cpd00006_c":-1.0,
+"cpd00012_c":-2.0,
 "cpd00067_c":-1.0,
-"cpd11508_c":-1.0,
-"cpd11509_c":1.0
+"cpd00350_c":2.0,
+"cpd00559_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn10260_c",
-"name":"anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase",
-"metabolites":{
-"cpd00046_c":1.0,
-"cpd00080_c":-1.0,
-"cpd15684_c":-1.0,
-"cpd15717_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05377_c",
-"name":"12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11513_c":-1.0,
-"cpd11514_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03535_c",
-"name":"ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase",
-"metabolites":{
-"cpd00002_c":1.0,
-"cpd00067_c":1.0,
-"cpd00421_c":-1.0,
-"cpd03915_c":1.0,
-"cpd03916_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05397_c",
-"name":"11-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11533_c":-1.0,
-"cpd11534_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05405_c",
-"name":"15-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11541_c":-1.0,
-"cpd11542_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn06848_c",
-"name":"R05075",
-"metabolites":{
-"cpd03587_c":1.0,
-"cpd03736_c":-1.0,
-"cpd11466_c":-1.0,
-"cpd11493_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn08710_c",
-"name":"RXN0-5118.c",
-"metabolites":{
-"cpd00008_c":1.0,
-"cpd00067_c":-3.0,
-"cpd03587_c":-1.0,
-"cpd03831_c":-1.0,
-"cpd15485_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05306_c",
-"name":"TRANS-RXNBWI-115637.ce.maizeexp.PHE",
-"metabolites":{
-"cpd00066_c":1.0,
-"cpd00066_e":-1.0,
-"cpd00067_c":1.0,
-"cpd00067_e":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn12224_c",
-"name":"2-octaprenyl-6-methoxyphenol hydroxylase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd00007_c":-1.0,
-"cpd03446_c":-1.0,
-"cpd03447_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05369_c",
-"name":"8-methyl-3-hydroxy-decanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11505_c":-1.0,
-"cpd11506_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05401_c",
-"name":"13-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase",
-"metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11537_c":-1.0,
-"cpd11538_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn03918_c",
-"name":"ATP:D-glycero-beta-D-manno-heptose 7-phosphate 1-phosphotransferase",
+"id":"rxn02286_c",
+"name":"UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)",
 "metabolites":{
 "cpd00002_c":-1.0,
 "cpd00008_c":1.0,
+"cpd00009_c":1.0,
+"cpd00035_c":-1.0,
 "cpd00067_c":1.0,
-"cpd04918_c":-1.0,
-"cpd08316_c":1.0
+"cpd00773_c":-1.0,
+"cpd00890_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn08713_c",
-"name":"heptosyltransferase IV (LPS core synthesis)",
+"id":"rxn10215_c",
+"name":"anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase",
+"metabolites":{
+"cpd00010_c":1.0,
+"cpd00067_c":1.0,
+"cpd11434_c":-1.0,
+"cpd15672_c":-1.0,
+"cpd15678_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn08711_c",
+"name":"RXN0-5061.c",
 "metabolites":{
 "cpd00008_c":1.0,
 "cpd03831_c":-1.0,
-"cpd15432_c":1.0,
-"cpd15477_c":-1.0
+"cpd15484_c":1.0,
+"cpd15485_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn08815_c",
-"name":"Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:0) (periplasm)",
+"id":"rxn02774_c",
+"name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase",
+"metabolites":{
+"cpd00003_c":-1.0,
+"cpd00004_c":1.0,
+"cpd00067_c":2.0,
+"cpd01620_c":-1.0,
+"cpd03426_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn05365_c",
+"name":"6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase",
 "metabolites":{
 "cpd00001_c":1.0,
+"cpd11501_c":-1.0,
+"cpd11502_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:>"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn00467_c",
+"name":"L-Ornithine:2-oxo-acid aminotransferase",
+"metabolites":{
+"cpd00023_c":-1.0,
+"cpd00024_c":1.0,
+"cpd00064_c":1.0,
+"cpd00858_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn13661_c",
+"name":"S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)",
+"metabolites":{
+"cpd00017_c":1.0,
+"cpd00019_c":-1.0,
 "cpd00067_c":-1.0,
+"cpd11425_c":1.0,
+"cpd11606_c":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"gapfill_data":{
+"gf.1":"added:<"
+},
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"rxn09149_c",
+"name":"Phospholipase A2 (phosphatidate, n-C18:0) (periplasm)",
+"metabolites":{
+"cpd00001_c":1.0,
+"cpd00067_c":-2.0,
 "cpd01080_c":-1.0,
-"cpd02090_c":-1.0,
-"cpd15323_c":1.0
+"cpd15329_c":-1.0,
+"cpd15526_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:<"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn02288_c",
-"name":"Uroporphyrinogen-III carboxy-lyase",
-"metabolites":{
-"cpd00011_c":-4.0,
-"cpd00067_c":4.0,
-"cpd00774_c":1.0,
-"cpd02083_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05402_c",
-"name":"13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase",
+"id":"rxn05361_c",
+"name":"4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase",
 "metabolites":{
 "cpd00001_c":1.0,
-"cpd11538_c":-1.0,
-"cpd11539_c":1.0
+"cpd11497_c":-1.0,
+"cpd11498_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05406_c",
-"name":"15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase",
-"metabolites":{
-"cpd00001_c":1.0,
-"cpd11542_c":-1.0,
-"cpd11543_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -26599,132 +26652,89 @@
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn04048_c",
-"name":"cobalt-precorrin-4 methyltransferase",
+"id":"rxn02008_c",
+"name":"UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)",
 "metabolites":{
-"cpd00017_c":1.0,
-"cpd00019_c":-1.0,
-"cpd00067_c":-1.0,
-"cpd08370_c":1.0,
-"cpd08371_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn05267_c",
-"name":"1,4-dihydroxy-2-naphthoate octaprenyltransferase",
-"metabolites":{
-"cpd00003_c":1.0,
-"cpd00004_c":-1.0,
-"cpd00011_c":-1.0,
-"cpd00012_c":-1.0,
-"cpd00067_c":-1.0,
-"cpd02295_c":1.0,
-"cpd02590_c":1.0,
-"cpd11425_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"gapfill_data":{
-"gf.0":"added:<"
-},
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"rxn04050_c",
-"name":"R05812",
-"metabolites":{
-"cpd00005_c":1.0,
-"cpd00006_c":-1.0,
+"cpd00002_c":-1.0,
+"cpd00008_c":1.0,
+"cpd00009_c":1.0,
 "cpd00067_c":1.0,
-"cpd08372_c":1.0,
-"cpd08373_c":-1.0
+"cpd00186_c":-1.0,
+"cpd00525_c":1.0,
+"cpd00890_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05219_c",
-"name":"nonpolar-amino-acid-transporting ATPase",
+"id":"rxn12850_c",
+"name":"Gly-Phe ABC transporters",
 "metabolites":{
 "cpd00001_c":-1.0,
 "cpd00002_c":-1.0,
 "cpd00008_c":1.0,
 "cpd00009_c":1.0,
-"cpd00060_c":1.0,
-"cpd00060_e":-1.0,
-"cpd00067_c":1.0
+"cpd00067_c":1.0,
+"cpd15605_c":1.0,
+"cpd15605_e":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn05364_c",
-"name":"6-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase",
+"id":"rxn10260_c",
+"name":"anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase",
 "metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00067_c":-1.0,
-"cpd11500_c":-1.0,
-"cpd11501_c":1.0
+"cpd00046_c":1.0,
+"cpd00080_c":-1.0,
+"cpd15684_c":-1.0,
+"cpd15717_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:>"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
 },
 {
-"id":"rxn00086_c",
-"name":"glutathione:NADP+ oxidoreductase",
+"id":"rxn10199_c",
+"name":"Peptidoglycan subunit synthesis",
 "metabolites":{
-"cpd00005_c":-1.0,
-"cpd00006_c":1.0,
-"cpd00042_c":2.0,
-"cpd00067_c":-1.0,
-"cpd00111_c":-1.0
+"cpd02229_c":1.0,
+"cpd03495_c":-1.0,
+"cpd15665_c":1.0,
+"cpd15666_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "gapfill_data":{
-"gf.0":"added:<"
+"gf.1":"added:>"
 },
 "likelihood_str":"unknown"
 }
@@ -27341,10 +27351,10 @@
 }
 },
 {
-"id":"EX_cpd00268_e",
-"name":"H2S2O3 exchange",
+"id":"EX_cpd01080_e",
+"name":"ocdca exchange",
 "metabolites":{
-"cpd00268_e":-1.0
+"cpd01080_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27354,140 +27364,10 @@
 }
 },
 {
-"id":"EX_cpd00305_e",
-"name":"Thiamin exchange",
+"id":"EX_cpd15606_e",
+"name":"Gly-Tyr exchange",
 "metabolites":{
-"cpd00305_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00028_e",
-"name":"Heme exchange",
-"metabolites":{
-"cpd00028_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd03847_e",
-"name":"Myristic acid exchange",
-"metabolites":{
-"cpd03847_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00322_e",
-"name":"L-Isoleucine exchange",
-"metabolites":{
-"cpd00322_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00063_e",
-"name":"Ca2+ exchange",
-"metabolites":{
-"cpd00063_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00264_e",
-"name":"Spermidine exchange",
-"metabolites":{
-"cpd00264_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00069_e",
-"name":"L-Tyrosine exchange",
-"metabolites":{
-"cpd00069_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00010_e",
-"name":"CoA exchange",
-"metabolites":{
-"cpd00010_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd03422_e",
-"name":"Cobinamide exchange",
-"metabolites":{
-"cpd03422_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd01188_e",
-"name":"Lanosterol exchange",
-"metabolites":{
-"cpd01188_e":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"notes":{
-"likelihood_str":"unknown"
-}
-},
-{
-"id":"EX_cpd00149_e",
-"name":"Co2+ exchange",
-"metabolites":{
-"cpd00149_e":-1.0
+"cpd15606_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27510,6 +27390,84 @@
 }
 },
 {
+"id":"EX_cpd00010_e",
+"name":"CoA exchange",
+"metabolites":{
+"cpd00010_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd00268_e",
+"name":"H2S2O3 exchange",
+"metabolites":{
+"cpd00268_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd00149_e",
+"name":"Co2+ exchange",
+"metabolites":{
+"cpd00149_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd00264_e",
+"name":"Spermidine exchange",
+"metabolites":{
+"cpd00264_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd00063_e",
+"name":"Ca2+ exchange",
+"metabolites":{
+"cpd00063_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd03847_e",
+"name":"Myristic acid exchange",
+"metabolites":{
+"cpd03847_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
 "id":"EX_cpd11606_e",
 "name":"Menaquinone 7 exchange",
 "metabolites":{
@@ -27523,10 +27481,10 @@
 }
 },
 {
-"id":"EX_cpd01080_e",
-"name":"ocdca exchange",
+"id":"EX_cpd00305_e",
+"name":"Thiamin exchange",
 "metabolites":{
-"cpd01080_e":-1.0
+"cpd00305_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27536,10 +27494,62 @@
 }
 },
 {
-"id":"EX_cpd00066_e",
-"name":"L-Phenylalanine exchange",
+"id":"EX_cpd00322_e",
+"name":"L-Isoleucine exchange",
 "metabolites":{
-"cpd00066_e":-1.0
+"cpd00322_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd00028_e",
+"name":"Heme exchange",
+"metabolites":{
+"cpd00028_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd03422_e",
+"name":"Cobinamide exchange",
+"metabolites":{
+"cpd03422_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd11591_e",
+"name":"Gly-Met exchange",
+"metabolites":{
+"cpd11591_e":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"notes":{
+"likelihood_str":"unknown"
+}
+},
+{
+"id":"EX_cpd01188_e",
+"name":"Lanosterol exchange",
+"metabolites":{
+"cpd01188_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27562,10 +27572,10 @@
 }
 },
 {
-"id":"EX_cpd00060_e",
-"name":"L-Methionine exchange",
+"id":"EX_cpd15605_e",
+"name":"Gly-Phe exchange",
 "metabolites":{
-"cpd00060_e":-1.0
+"cpd15605_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27710,15 +27720,7 @@
 "name":"DNA helicase (EC 3.6.4.12)"
 },
 {
-"id":"762984.10.peg.1933",
-"name":"beta-galactosidase (EC 3.2.1.23)"
-},
-{
-"id":"762984.10.peg.1747",
-"name":"beta-galactosidase (EC 3.2.1.23)"
-},
-{
-"id":"762984.10.peg.2005",
+"id":"762984.10.peg.694",
 "name":"beta-galactosidase (EC 3.2.1.23)"
 },
 {
@@ -27726,7 +27728,15 @@
 "name":"beta-galactosidase (EC 3.2.1.23)"
 },
 {
+"id":"762984.10.peg.2005",
+"name":"beta-galactosidase (EC 3.2.1.23)"
+},
+{
 "id":"762984.10.peg.1937",
+"name":"beta-galactosidase (EC 3.2.1.23)"
+},
+{
+"id":"762984.10.peg.1933",
 "name":"beta-galactosidase (EC 3.2.1.23)"
 },
 {
@@ -27734,7 +27744,7 @@
 "name":"beta-galactosidase (EC 3.2.1.23)"
 },
 {
-"id":"762984.10.peg.694",
+"id":"762984.10.peg.1747",
 "name":"beta-galactosidase (EC 3.2.1.23)"
 },
 {
@@ -27754,7 +27764,7 @@
 "name":"UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)"
 },
 {
-"id":"762984.10.peg.1769",
+"id":"762984.10.peg.2912",
 "name":"Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)"
 },
 {
@@ -27762,7 +27772,7 @@
 "name":"Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)"
 },
 {
-"id":"762984.10.peg.2912",
+"id":"762984.10.peg.1064",
 "name":"Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)"
 },
 {
@@ -27770,7 +27780,7 @@
 "name":"Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)"
 },
 {
-"id":"762984.10.peg.1064",
+"id":"762984.10.peg.1769",
 "name":"Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)"
 },
 {
@@ -27782,11 +27792,11 @@
 "name":"Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)"
 },
 {
-"id":"762984.10.peg.1114",
+"id":"762984.10.peg.1061",
 "name":"GDP-mannose 4,6-dehydratase (EC 4.2.1.47)"
 },
 {
-"id":"762984.10.peg.1061",
+"id":"762984.10.peg.1114",
 "name":"GDP-mannose 4,6-dehydratase (EC 4.2.1.47)"
 },
 {
@@ -27826,32 +27836,8 @@
 "name":"DNA gyrase subunit B (EC 5.99.1.3)"
 },
 {
-"id":"762984.10.peg.1679",
-"name":"DNA gyrase subunit A (EC 5.99.1.3)"
-},
-{
-"id":"762984.10.peg.1279",
-"name":"Single-stranded DNA-binding protein"
-},
-{
-"id":"762984.10.peg.2923",
-"name":"Chromosomal replication initiator protein DnaA"
-},
-{
-"id":"762984.10.peg.3191",
-"name":"DNA polymerase III subunits gamma and tau (EC 2.7.7.7)"
-},
-{
 "id":"762984.10.peg.1666",
 "name":"DNA polymerase III delta subunit (EC 2.7.7.7)"
-},
-{
-"id":"762984.10.peg.841",
-"name":"DNA topoisomerase I (EC 5.99.1.2)"
-},
-{
-"id":"762984.10.peg.2776",
-"name":"DNA polymerase III alpha subunit (EC 2.7.7.7)"
 },
 {
 "id":"762984.10.peg.1444",
@@ -27862,24 +27848,48 @@
 "name":"DNA polymerase III beta subunit (EC 2.7.7.7)"
 },
 {
-"id":"762984.10.peg.2694",
-"name":"DNA polymerase III delta prime subunit (EC 2.7.7.7)"
+"id":"762984.10.peg.1679",
+"name":"DNA gyrase subunit A (EC 5.99.1.3)"
+},
+{
+"id":"762984.10.peg.3191",
+"name":"DNA polymerase III subunits gamma and tau (EC 2.7.7.7)"
 },
 {
 "id":"762984.10.peg.896",
 "name":"Helicase PriA essential for oriC/DnaA-independent DNA replication"
 },
 {
+"id":"762984.10.peg.841",
+"name":"DNA topoisomerase I (EC 5.99.1.2)"
+},
+{
+"id":"762984.10.peg.2776",
+"name":"DNA polymerase III alpha subunit (EC 2.7.7.7)"
+},
+{
+"id":"762984.10.peg.2923",
+"name":"Chromosomal replication initiator protein DnaA"
+},
+{
+"id":"762984.10.peg.1279",
+"name":"Single-stranded DNA-binding protein"
+},
+{
+"id":"762984.10.peg.2694",
+"name":"DNA polymerase III delta prime subunit (EC 2.7.7.7)"
+},
+{
 "id":"762984.10.peg.2640",
 "name":"Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)"
 },
 {
-"id":"762984.10.peg.2483",
-"name":"3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.41)"
-},
-{
 "id":"762984.10.peg.1890",
 "name":"3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.41)"
+},
+{
+"id":"762984.10.peg.2483",
+"name":"3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.41)"
 },
 {
 "id":"762984.10.peg.2395",
@@ -27890,11 +27900,11 @@
 "name":"Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)"
 },
 {
-"id":"762984.10.peg.3128",
+"id":"762984.10.peg.384",
 "name":"Purine nucleoside phosphorylase (EC 2.4.2.1)"
 },
 {
-"id":"762984.10.peg.384",
+"id":"762984.10.peg.3128",
 "name":"Purine nucleoside phosphorylase (EC 2.4.2.1)"
 },
 {
@@ -27918,11 +27928,7 @@
 "name":"polyphosphate kinase (EC 2.7.4.1)"
 },
 {
-"id":"762984.10.peg.2750",
-"name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
-},
-{
-"id":"762984.10.peg.2505",
+"id":"762984.10.peg.2871",
 "name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
 },
 {
@@ -27930,7 +27936,7 @@
 "name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
 },
 {
-"id":"762984.10.peg.2871",
+"id":"762984.10.peg.2750",
 "name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
 },
 {
@@ -27938,12 +27944,16 @@
 "name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
 },
 {
-"id":"762984.10.peg.1166",
-"name":"Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)"
+"id":"762984.10.peg.2505",
+"name":"rhamnogalacturonan acetylesterase (EC 3.1.1.86)"
 },
 {
 "id":"762984.10.peg.1165",
 "name":"Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4)"
+},
+{
+"id":"762984.10.peg.1166",
+"name":"Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)"
 },
 {
 "id":"762984.10.peg.816",
@@ -27962,11 +27972,11 @@
 "name":"Adenylosuccinate lyase (EC 4.3.2.2)"
 },
 {
-"id":"762984.10.peg.1627",
+"id":"762984.10.peg.1087",
 "name":"UDP-glucose 6-dehydrogenase (EC 1.1.1.22)"
 },
 {
-"id":"762984.10.peg.1087",
+"id":"762984.10.peg.1627",
 "name":"UDP-glucose 6-dehydrogenase (EC 1.1.1.22)"
 },
 {
@@ -27979,10 +27989,10 @@
 },
 {
 "id":"762984.10.peg.166",
-"name":"Dihydrofolate synthase (EC 6.3.2.12)"
+"name":"Folylpolyglutamate synthase (EC 6.3.2.17)"
 },
 {
-"id":"762984.10.peg.1128",
+"id":"762984.10.peg.3145",
 "name":"5'-nucleotidase (EC 3.1.3.5)"
 },
 {
@@ -27990,7 +28000,7 @@
 "name":"5'-nucleotidase (EC 3.1.3.5)"
 },
 {
-"id":"762984.10.peg.3145",
+"id":"762984.10.peg.1128",
 "name":"5'-nucleotidase (EC 3.1.3.5)"
 },
 {
@@ -27998,11 +28008,11 @@
 "name":"Xylulose kinase (EC 2.7.1.17)"
 },
 {
-"id":"762984.10.peg.1892",
+"id":"762984.10.peg.3022",
 "name":"6-phosphofructokinase (EC 2.7.1.11)"
 },
 {
-"id":"762984.10.peg.3022",
+"id":"762984.10.peg.1892",
 "name":"6-phosphofructokinase (EC 2.7.1.11)"
 },
 {
@@ -28010,7 +28020,7 @@
 "name":"thymidine kinase (EC 2.7.1.21)"
 },
 {
-"id":"762984.10.peg.2757",
+"id":"762984.10.peg.549",
 "name":"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5)"
 },
 {
@@ -28018,7 +28028,7 @@
 "name":"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5)"
 },
 {
-"id":"762984.10.peg.549",
+"id":"762984.10.peg.2757",
 "name":"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5)"
 },
 {
@@ -28050,11 +28060,11 @@
 "name":"N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)"
 },
 {
-"id":"762984.10.peg.186",
+"id":"762984.10.peg.2926",
 "name":"N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)"
 },
 {
-"id":"762984.10.peg.2926",
+"id":"762984.10.peg.186",
 "name":"N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)"
 },
 {
@@ -28062,12 +28072,12 @@
 "name":"N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)"
 },
 {
-"id":"762984.10.peg.760",
-"name":"Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)"
-},
-{
 "id":"762984.10.peg.761",
 "name":"Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)"
+},
+{
+"id":"762984.10.peg.760",
+"name":"Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)"
 },
 {
 "id":"762984.10.peg.2813",
@@ -28090,12 +28100,12 @@
 "name":"Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)"
 },
 {
-"id":"762984.10.peg.2547",
-"name":"Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)"
-},
-{
 "id":"762984.10.peg.2546",
 "name":"Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)"
+},
+{
+"id":"762984.10.peg.2547",
+"name":"Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)"
 },
 {
 "id":"762984.10.peg.966",
@@ -28118,11 +28128,11 @@
 "name":"L-serine dehydratase, beta subunit (EC 4.3.1.17)"
 },
 {
-"id":"762984.10.peg.2865",
+"id":"762984.10.peg.720",
 "name":"4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)"
 },
 {
-"id":"762984.10.peg.720",
+"id":"762984.10.peg.2865",
 "name":"4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase (EC 5.3.1.17)"
 },
 {
@@ -28170,12 +28180,12 @@
 "name":"4-O-beta-D-mannosyl-D-glucose phosphorylase (EC 2.4.1.281)"
 },
 {
-"id":"762984.10.peg.35",
-"name":"Tryptophan synthase alpha chain (EC 4.2.1.20)"
-},
-{
 "id":"762984.10.peg.29",
 "name":"Tryptophan synthase beta chain (EC 4.2.1.20)"
+},
+{
+"id":"762984.10.peg.35",
+"name":"Tryptophan synthase alpha chain (EC 4.2.1.20)"
 },
 {
 "id":"762984.10.peg.3129",
@@ -28194,12 +28204,12 @@
 "name":"Dihydrolipoamide dehydrogenase (EC 1.8.1.4)"
 },
 {
-"id":"762984.10.peg.857",
-"name":"Glycine cleavage system H protein"
-},
-{
 "id":"762984.10.peg.1387",
 "name":"Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)"
+},
+{
+"id":"762984.10.peg.857",
+"name":"Glycine cleavage system H protein"
 },
 {
 "id":"762984.10.peg.2714",
@@ -28230,11 +28240,11 @@
 "name":"4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)"
 },
 {
-"id":"762984.10.peg.735",
+"id":"762984.10.peg.580",
 "name":"Cysteine synthase (EC 2.5.1.47)"
 },
 {
-"id":"762984.10.peg.580",
+"id":"762984.10.peg.735",
 "name":"Cysteine synthase (EC 2.5.1.47)"
 },
 {
@@ -28246,11 +28256,11 @@
 "name":"Outer membrane vitamin B12 receptor BtuB"
 },
 {
-"id":"762984.10.peg.1790",
+"id":"762984.10.peg.493",
 "name":"Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)"
 },
 {
-"id":"762984.10.peg.493",
+"id":"762984.10.peg.1790",
 "name":"Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)"
 },
 {
@@ -28262,11 +28272,11 @@
 "name":"2-isopropylmalate synthase (EC 2.3.3.13)"
 },
 {
-"id":"762984.10.peg.2647",
+"id":"762984.10.peg.1232",
 "name":"N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)"
 },
 {
-"id":"762984.10.peg.1232",
+"id":"762984.10.peg.2647",
 "name":"N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)"
 },
 {
@@ -28438,11 +28448,11 @@
 "name":"AMP nucleosidase (EC 3.2.2.4)"
 },
 {
-"id":"762984.10.peg.2532",
+"id":"762984.10.peg.2544",
 "name":"Glycerol-3-phosphate transporter"
 },
 {
-"id":"762984.10.peg.2544",
+"id":"762984.10.peg.2532",
 "name":"Glycerol-3-phosphate transporter"
 },
 {
@@ -28474,12 +28484,12 @@
 "name":"NAD kinase (EC 2.7.1.23)"
 },
 {
-"id":"762984.10.peg.31",
-"name":"Anthranilate synthase, amidotransferase component (EC 4.1.3.27)"
-},
-{
 "id":"762984.10.peg.30",
 "name":"Anthranilate synthase, aminase component (EC 4.1.3.27)"
+},
+{
+"id":"762984.10.peg.31",
+"name":"Anthranilate synthase, amidotransferase component (EC 4.1.3.27)"
 },
 {
 "id":"762984.10.peg.1506",
@@ -28498,15 +28508,15 @@
 "name":"Chromate transport protein"
 },
 {
+"id":"762984.10.peg.1493",
+"name":"Chromate transport protein"
+},
+{
 "id":"762984.10.peg.1494",
 "name":"Chromate transport protein"
 },
 {
 "id":"762984.10.peg.2094",
-"name":"Chromate transport protein"
-},
-{
-"id":"762984.10.peg.1493",
 "name":"Chromate transport protein"
 },
 {
@@ -28526,19 +28536,19 @@
 "name":"Histidinol dehydrogenase (EC 1.1.1.23)"
 },
 {
-"id":"762984.10.peg.629",
-"name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
-},
-{
-"id":"762984.10.peg.369",
-"name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
-},
-{
 "id":"762984.10.peg.632",
 "name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
 },
 {
 "id":"762984.10.peg.633",
+"name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
+},
+{
+"id":"762984.10.peg.629",
+"name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
+},
+{
+"id":"762984.10.peg.369",
 "name":"glucan 1,4-alpha-glucosidase (EC 3.2.1.3)"
 },
 {
@@ -28598,11 +28608,11 @@
 "name":"phosphoribosylanthranilate isomerase (EC 5.3.1.24)"
 },
 {
-"id":"762984.10.peg.797",
+"id":"762984.10.peg.2067",
 "name":"3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)"
 },
 {
-"id":"762984.10.peg.2067",
+"id":"762984.10.peg.797",
 "name":"3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)"
 },
 {
@@ -28614,11 +28624,7 @@
 "name":"uracil phosphoribosyltransferase (EC 2.4.2.9)"
 },
 {
-"id":"762984.10.peg.1034",
-"name":"beta-glucosidase (EC 3.2.1.21)"
-},
-{
-"id":"762984.10.peg.3062",
+"id":"762984.10.peg.2115",
 "name":"beta-glucosidase (EC 3.2.1.21)"
 },
 {
@@ -28630,11 +28636,15 @@
 "name":"beta-glucosidase (EC 3.2.1.21)"
 },
 {
+"id":"762984.10.peg.3062",
+"name":"beta-glucosidase (EC 3.2.1.21)"
+},
+{
 "id":"762984.10.peg.2614",
 "name":"beta-glucosidase (EC 3.2.1.21)"
 },
 {
-"id":"762984.10.peg.2115",
+"id":"762984.10.peg.1034",
 "name":"beta-glucosidase (EC 3.2.1.21)"
 },
 {
@@ -28646,11 +28656,11 @@
 "name":"imidazolonepropionase (EC 3.5.2.7)"
 },
 {
-"id":"762984.10.peg.2398",
+"id":"762984.10.peg.3134",
 "name":"Malate dehydrogenase (EC 1.1.1.37)"
 },
 {
-"id":"762984.10.peg.3134",
+"id":"762984.10.peg.2398",
 "name":"Malate dehydrogenase (EC 1.1.1.37)"
 },
 {
@@ -28679,7 +28689,7 @@
 },
 {
 "id":"762984.10.peg.867",
-"name":"Riboflavin kinase (EC 2.7.1.26)"
+"name":"FMN adenylyltransferase (EC 2.7.7.2)"
 },
 {
 "id":"762984.10.peg.2385",
@@ -28723,7 +28733,7 @@
 },
 {
 "id":"762984.10.peg.60",
-"name":"4-Hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16)"
+"name":"2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)"
 },
 {
 "id":"762984.10.peg.1710",
@@ -28774,36 +28784,36 @@
 "name":"Phosphoenolpyruvate synthase (EC 2.7.9.2)"
 },
 {
-"id":"762984.10.peg.728",
-"name":"tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)"
-},
-{
-"id":"762984.10.peg.129",
-"name":"RNA polymerase sigma factor RpoD"
-},
-{
-"id":"762984.10.peg.716",
-"name":"Ribonuclease P protein component (EC 3.1.26.5)"
-},
-{
 "id":"762984.10.peg.917",
 "name":"DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)"
-},
-{
-"id":"762984.10.peg.916",
-"name":"DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)"
 },
 {
 "id":"762984.10.peg.956",
 "name":"DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)"
 },
 {
+"id":"762984.10.peg.129",
+"name":"RNA polymerase sigma factor RpoD"
+},
+{
 "id":"762984.10.peg.1891",
 "name":"Ribonuclease III (EC 3.1.26.3)"
 },
 {
+"id":"762984.10.peg.716",
+"name":"Ribonuclease P protein component (EC 3.1.26.5)"
+},
+{
+"id":"762984.10.peg.916",
+"name":"DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)"
+},
+{
 "id":"762984.10.peg.1865",
 "name":"Transcription termination protein NusA"
+},
+{
+"id":"762984.10.peg.728",
+"name":"tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)"
 },
 {
 "id":"762984.10.peg.2303",
@@ -28930,11 +28940,11 @@
 "name":"D-xylose proton-symporter XylE"
 },
 {
-"id":"762984.10.peg.61",
+"id":"762984.10.peg.1321",
 "name":"2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)"
 },
 {
-"id":"762984.10.peg.1321",
+"id":"762984.10.peg.61",
 "name":"2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)"
 },
 {
@@ -28994,20 +29004,20 @@
 "name":"Aspartate aminotransferase (EC 2.6.1.1)"
 },
 {
-"id":"762984.10.peg.3187",
-"name":"Aspartate aminotransferase (EC 2.6.1.1)"
-},
-{
 "id":"762984.10.peg.1452",
 "name":"Aspartate aminotransferase (EC 2.6.1.1)"
 },
 {
-"id":"762984.10.peg.1019",
-"name":"Glycine betaine ABC transport system, permease protein OpuAB"
+"id":"762984.10.peg.3187",
+"name":"Aspartate aminotransferase (EC 2.6.1.1)"
 },
 {
 "id":"762984.10.peg.1018",
 "name":"Glycine betaine ABC transport system, ATP-binding protein OpuAA (EC 3.6.3.32)"
+},
+{
+"id":"762984.10.peg.1019",
+"name":"Glycine betaine ABC transport system, permease protein OpuAB"
 },
 {
 "id":"762984.10.peg.1020",
@@ -29018,264 +29028,144 @@
 "name":"N-acetylneuraminate synthase (EC 2.5.1.56)"
 },
 {
-"id":"762984.10.peg.938",
-"name":"SSU ribosomal protein S17p (S11e)"
-},
-{
-"id":"762984.10.peg.935",
-"name":"SSU ribosomal protein S3p (S3e)"
-},
-{
-"id":"762984.10.peg.2184",
-"name":"LSU ribosomal protein L27p"
-},
-{
-"id":"762984.10.peg.906",
-"name":"SSU ribosomal protein S21p"
+"id":"762984.10.peg.931",
+"name":"LSU ribosomal protein L23p (L23Ae)"
 },
 {
 "id":"762984.10.peg.2451",
 "name":"Asparaginyl-tRNA synthetase (EC 6.1.1.22)"
 },
 {
-"id":"762984.10.peg.1697",
-"name":"LSU ribosomal protein L33p"
-},
-{
-"id":"762984.10.peg.942",
-"name":"SSU ribosomal protein S14p (S29e)"
-},
-{
-"id":"762984.10.peg.1419",
-"name":"Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)"
-},
-{
-"id":"762984.10.peg.3143",
-"name":"LSU ribosomal protein L19p"
-},
-{
-"id":"762984.10.peg.1156",
-"name":"LSU ribosomal protein L20p"
-},
-{
-"id":"762984.10.peg.2459",
-"name":"Tryptophanyl-tRNA synthetase (EC 6.1.1.2)"
-},
-{
-"id":"762984.10.peg.2554",
-"name":"LSU ribosomal protein L34p"
-},
-{
-"id":"762984.10.peg.925",
-"name":"SSU ribosomal protein S12p (S23e)"
-},
-{
-"id":"762984.10.peg.945",
-"name":"LSU ribosomal protein L18p (L5e)"
-},
-{
-"id":"762984.10.peg.939",
-"name":"LSU ribosomal protein L14p (L23e)"
-},
-{
-"id":"762984.10.peg.2183",
-"name":"LSU ribosomal protein L21p"
-},
-{
-"id":"762984.10.peg.937",
-"name":"LSU ribosomal protein L29p (L35e)"
-},
-{
-"id":"762984.10.peg.944",
-"name":"LSU ribosomal protein L6p (L9e)"
-},
-{
-"id":"762984.10.peg.2143",
-"name":"Valyl-tRNA synthetase (EC 6.1.1.9)"
-},
-{
-"id":"762984.10.peg.952",
-"name":"LSU ribosomal protein L36p"
-},
-{
-"id":"762984.10.peg.934",
-"name":"LSU ribosomal protein L22p (L17e)"
-},
-{
-"id":"762984.10.peg.932",
-"name":"LSU ribosomal protein L2p (L8e)"
-},
-{
-"id":"762984.10.peg.840",
-"name":"Arginyl-tRNA synthetase (EC 6.1.1.19)"
-},
-{
-"id":"762984.10.peg.955",
-"name":"SSU ribosomal protein S4p (S9e)"
-},
-{
-"id":"762984.10.peg.1848",
-"name":"SSU ribosomal protein S20p"
-},
-{
 "id":"762984.10.peg.953",
 "name":"SSU ribosomal protein S13p (S18e)"
-},
-{
-"id":"762984.10.peg.2185",
-"name":"Seryl-tRNA synthetase (EC 6.1.1.11)"
-},
-{
-"id":"762984.10.peg.1650",
-"name":"Aspartyl-tRNA synthetase (EC 6.1.1.12)"
-},
-{
-"id":"762984.10.peg.255",
-"name":"tRNA(Ile)-lysidine synthetase"
-},
-{
-"id":"762984.10.peg.824",
-"name":"SSU ribosomal protein S15p (S13e)"
-},
-{
-"id":"762984.10.peg.941",
-"name":"LSU ribosomal protein L5p (L11e)"
-},
-{
-"id":"762984.10.peg.930",
-"name":"LSU ribosomal protein L4p (L1e)"
-},
-{
-"id":"762984.10.peg.943",
-"name":"SSU ribosomal protein S8p (S15Ae)"
-},
-{
-"id":"762984.10.peg.1896",
-"name":"Cysteinyl-tRNA synthetase (EC 6.1.1.16)"
-},
-{
-"id":"762984.10.peg.931",
-"name":"LSU ribosomal protein L23p (L23Ae)"
-},
-{
-"id":"762984.10.peg.2448",
-"name":"LSU ribosomal protein L13p (L13Ae)"
-},
-{
-"id":"762984.10.peg.2908",
-"name":"SSU ribosomal protein S6p"
-},
-{
-"id":"762984.10.peg.913",
-"name":"LSU ribosomal protein L1p (L10Ae)"
-},
-{
-"id":"762984.10.peg.2447",
-"name":"SSU ribosomal protein S9p (S16e)"
-},
-{
-"id":"762984.10.peg.929",
-"name":"LSU ribosomal protein L3p (L3e)"
-},
-{
-"id":"762984.10.peg.2801",
-"name":"Alanyl-tRNA synthetase (EC 6.1.1.7)"
-},
-{
-"id":"762984.10.peg.947",
-"name":"LSU ribosomal protein L30p (L7e)"
-},
-{
-"id":"762984.10.peg.2910",
-"name":"LSU ribosomal protein L9p"
-},
-{
-"id":"762984.10.peg.926",
-"name":"SSU ribosomal protein S7p (S5e)"
-},
-{
-"id":"762984.10.peg.946",
-"name":"SSU ribosomal protein S5p (S2e)"
-},
-{
-"id":"762984.10.peg.940",
-"name":"LSU ribosomal protein L24p (L26e)"
-},
-{
-"id":"762984.10.peg.2046",
-"name":"Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)"
-},
-{
-"id":"762984.10.peg.2484",
-"name":"LSU ribosomal protein L32p"
-},
-{
-"id":"762984.10.peg.933",
-"name":"SSU ribosomal protein S19p (S15e)"
-},
-{
-"id":"762984.10.peg.364",
-"name":"LSU ribosomal protein L31p"
-},
-{
-"id":"762984.10.peg.800",
-"name":"Methionyl-tRNA synthetase (EC 6.1.1.10)"
-},
-{
-"id":"762984.10.peg.67",
-"name":"SSU ribosomal protein S16p"
-},
-{
-"id":"762984.10.peg.928",
-"name":"SSU ribosomal protein S10p (S20e)"
-},
-{
-"id":"762984.10.peg.914",
-"name":"LSU ribosomal protein L10p (P0)"
 },
 {
 "id":"762984.10.peg.570",
 "name":"Histidyl-tRNA synthetase (EC 6.1.1.21)"
 },
 {
-"id":"762984.10.peg.2909",
-"name":"SSU ribosomal protein S18p"
+"id":"762984.10.peg.1419",
+"name":"Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)"
 },
 {
-"id":"762984.10.peg.948",
-"name":"LSU ribosomal protein L15p (L27Ae)"
+"id":"762984.10.peg.926",
+"name":"SSU ribosomal protein S7p (S5e)"
 },
 {
-"id":"762984.10.peg.1698",
-"name":"LSU ribosomal protein L28p"
+"id":"762984.10.peg.957",
+"name":"LSU ribosomal protein L17p"
 },
 {
-"id":"762984.10.peg.954",
-"name":"SSU ribosomal protein S11p (S14e)"
+"id":"762984.10.peg.840",
+"name":"Arginyl-tRNA synthetase (EC 6.1.1.19)"
 },
 {
-"id":"762984.10.peg.1157",
-"name":"LSU ribosomal protein L35p"
-},
-{
-"id":"762984.10.peg.719",
-"name":"Tyrosyl-tRNA synthetase (EC 6.1.1.1)"
-},
-{
-"id":"762984.10.peg.1159",
-"name":"Threonyl-tRNA synthetase (EC 6.1.1.3)"
+"id":"762984.10.peg.1156",
+"name":"LSU ribosomal protein L20p"
 },
 {
 "id":"762984.10.peg.2446",
 "name":"SSU ribosomal protein S2p (SAe)"
 },
 {
+"id":"762984.10.peg.3143",
+"name":"LSU ribosomal protein L19p"
+},
+{
+"id":"762984.10.peg.938",
+"name":"SSU ribosomal protein S17p (S11e)"
+},
+{
+"id":"762984.10.peg.906",
+"name":"SSU ribosomal protein S21p"
+},
+{
+"id":"762984.10.peg.952",
+"name":"LSU ribosomal protein L36p"
+},
+{
+"id":"762984.10.peg.929",
+"name":"LSU ribosomal protein L3p (L3e)"
+},
+{
+"id":"762984.10.peg.1157",
+"name":"LSU ribosomal protein L35p"
+},
+{
+"id":"762984.10.peg.2908",
+"name":"SSU ribosomal protein S6p"
+},
+{
 "id":"762984.10.peg.936",
 "name":"LSU ribosomal protein L16p (L10e)"
 },
 {
-"id":"762984.10.peg.957",
-"name":"LSU ribosomal protein L17p"
+"id":"762984.10.peg.1698",
+"name":"LSU ribosomal protein L28p"
+},
+{
+"id":"762984.10.peg.946",
+"name":"SSU ribosomal protein S5p (S2e)"
+},
+{
+"id":"762984.10.peg.2046",
+"name":"Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)"
+},
+{
+"id":"762984.10.peg.2183",
+"name":"LSU ribosomal protein L21p"
+},
+{
+"id":"762984.10.peg.2554",
+"name":"LSU ribosomal protein L34p"
+},
+{
+"id":"762984.10.peg.942",
+"name":"SSU ribosomal protein S14p (S29e)"
+},
+{
+"id":"762984.10.peg.939",
+"name":"LSU ribosomal protein L14p (L23e)"
+},
+{
+"id":"762984.10.peg.641",
+"name":"Leucyl-tRNA synthetase (EC 6.1.1.4)"
+},
+{
+"id":"762984.10.peg.932",
+"name":"LSU ribosomal protein L2p (L8e)"
+},
+{
+"id":"762984.10.peg.954",
+"name":"SSU ribosomal protein S11p (S14e)"
+},
+{
+"id":"762984.10.peg.364",
+"name":"LSU ribosomal protein L31p"
+},
+{
+"id":"762984.10.peg.824",
+"name":"SSU ribosomal protein S15p (S13e)"
+},
+{
+"id":"762984.10.peg.2484",
+"name":"LSU ribosomal protein L32p"
+},
+{
+"id":"762984.10.peg.941",
+"name":"LSU ribosomal protein L5p (L11e)"
+},
+{
+"id":"762984.10.peg.933",
+"name":"SSU ribosomal protein S19p (S15e)"
+},
+{
+"id":"762984.10.peg.1650",
+"name":"Aspartyl-tRNA synthetase (EC 6.1.1.12)"
+},
+{
+"id":"762984.10.peg.2447",
+"name":"SSU ribosomal protein S9p (S16e)"
 },
 {
 "id":"762984.10.peg.2946",
@@ -29286,8 +29176,128 @@
 "name":"Isoleucyl-tRNA synthetase (EC 6.1.1.5)"
 },
 {
-"id":"762984.10.peg.641",
-"name":"Leucyl-tRNA synthetase (EC 6.1.1.4)"
+"id":"762984.10.peg.948",
+"name":"LSU ribosomal protein L15p (L27Ae)"
+},
+{
+"id":"762984.10.peg.800",
+"name":"Methionyl-tRNA synthetase (EC 6.1.1.10)"
+},
+{
+"id":"762984.10.peg.2909",
+"name":"SSU ribosomal protein S18p"
+},
+{
+"id":"762984.10.peg.934",
+"name":"LSU ribosomal protein L22p (L17e)"
+},
+{
+"id":"762984.10.peg.2801",
+"name":"Alanyl-tRNA synthetase (EC 6.1.1.7)"
+},
+{
+"id":"762984.10.peg.1896",
+"name":"Cysteinyl-tRNA synthetase (EC 6.1.1.16)"
+},
+{
+"id":"762984.10.peg.2459",
+"name":"Tryptophanyl-tRNA synthetase (EC 6.1.1.2)"
+},
+{
+"id":"762984.10.peg.1848",
+"name":"SSU ribosomal protein S20p"
+},
+{
+"id":"762984.10.peg.1159",
+"name":"Threonyl-tRNA synthetase (EC 6.1.1.3)"
+},
+{
+"id":"762984.10.peg.719",
+"name":"Tyrosyl-tRNA synthetase (EC 6.1.1.1)"
+},
+{
+"id":"762984.10.peg.940",
+"name":"LSU ribosomal protein L24p (L26e)"
+},
+{
+"id":"762984.10.peg.935",
+"name":"SSU ribosomal protein S3p (S3e)"
+},
+{
+"id":"762984.10.peg.925",
+"name":"SSU ribosomal protein S12p (S23e)"
+},
+{
+"id":"762984.10.peg.928",
+"name":"SSU ribosomal protein S10p (S20e)"
+},
+{
+"id":"762984.10.peg.913",
+"name":"LSU ribosomal protein L1p (L10Ae)"
+},
+{
+"id":"762984.10.peg.930",
+"name":"LSU ribosomal protein L4p (L1e)"
+},
+{
+"id":"762984.10.peg.2448",
+"name":"LSU ribosomal protein L13p (L13Ae)"
+},
+{
+"id":"762984.10.peg.67",
+"name":"SSU ribosomal protein S16p"
+},
+{
+"id":"762984.10.peg.945",
+"name":"LSU ribosomal protein L18p (L5e)"
+},
+{
+"id":"762984.10.peg.2185",
+"name":"Seryl-tRNA synthetase (EC 6.1.1.11)"
+},
+{
+"id":"762984.10.peg.937",
+"name":"LSU ribosomal protein L29p (L35e)"
+},
+{
+"id":"762984.10.peg.2910",
+"name":"LSU ribosomal protein L9p"
+},
+{
+"id":"762984.10.peg.943",
+"name":"SSU ribosomal protein S8p (S15Ae)"
+},
+{
+"id":"762984.10.peg.914",
+"name":"LSU ribosomal protein L10p (P0)"
+},
+{
+"id":"762984.10.peg.1697",
+"name":"LSU ribosomal protein L33p"
+},
+{
+"id":"762984.10.peg.955",
+"name":"SSU ribosomal protein S4p (S9e)"
+},
+{
+"id":"762984.10.peg.255",
+"name":"tRNA(Ile)-lysidine synthetase"
+},
+{
+"id":"762984.10.peg.2184",
+"name":"LSU ribosomal protein L27p"
+},
+{
+"id":"762984.10.peg.944",
+"name":"LSU ribosomal protein L6p (L9e)"
+},
+{
+"id":"762984.10.peg.947",
+"name":"LSU ribosomal protein L30p (L7e)"
+},
+{
+"id":"762984.10.peg.2143",
+"name":"Valyl-tRNA synthetase (EC 6.1.1.9)"
 },
 {
 "id":"762984.10.peg.969",
@@ -29311,43 +29321,43 @@
 },
 {
 "id":"762984.10.peg.2851",
-"name":"NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2846",
-"name":"NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2847",
-"name":"NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2848",
-"name":"NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2844",
-"name":"NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2852",
-"name":"NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2850",
-"name":"NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)"
-},
-{
-"id":"762984.10.peg.2853",
-"name":"NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)"
+"name":"NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)"
 },
 {
 "id":"762984.10.peg.2845",
 "name":"NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)"
 },
 {
+"id":"762984.10.peg.2850",
+"name":"NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)"
+},
+{
 "id":"762984.10.peg.2849",
 "name":"NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2848",
+"name":"NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2847",
+"name":"NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2852",
+"name":"NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2853",
+"name":"NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2844",
+"name":"NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)"
+},
+{
+"id":"762984.10.peg.2846",
+"name":"NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)"
 },
 {
 "id":"762984.10.peg.2156",
@@ -29358,11 +29368,11 @@
 "name":"Glutamine synthetase type III, GlnN (EC 6.3.1.2)"
 },
 {
-"id":"762984.10.peg.688",
+"id":"762984.10.peg.1558",
 "name":"2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)"
 },
 {
-"id":"762984.10.peg.1558",
+"id":"762984.10.peg.688",
 "name":"2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)"
 },
 {
@@ -29406,11 +29416,11 @@
 "name":"phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)"
 },
 {
-"id":"762984.10.peg.2319",
+"id":"762984.10.peg.2174",
 "name":"tRNA dimethylallyltransferase (EC 2.5.1.75)"
 },
 {
-"id":"762984.10.peg.2174",
+"id":"762984.10.peg.2319",
 "name":"tRNA dimethylallyltransferase (EC 2.5.1.75)"
 },
 {
@@ -29422,11 +29432,11 @@
 "name":"Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)"
 },
 {
-"id":"762984.10.peg.2107",
+"id":"762984.10.peg.592",
 "name":"fructokinase (EC 2.7.1.4)"
 },
 {
-"id":"762984.10.peg.592",
+"id":"762984.10.peg.2107",
 "name":"fructokinase (EC 2.7.1.4)"
 },
 {
@@ -29486,7 +29496,7 @@
 "name":"transketolase (EC 2.2.1.1)"
 },
 {
-"id":"762984.10.peg.1233",
+"id":"762984.10.peg.2987",
 "name":"Glucosamine-6-phosphate deaminase (EC 3.5.99.6)"
 },
 {
@@ -29494,7 +29504,7 @@
 "name":"Glucosamine-6-phosphate deaminase (EC 3.5.99.6)"
 },
 {
-"id":"762984.10.peg.2987",
+"id":"762984.10.peg.1233",
 "name":"Glucosamine-6-phosphate deaminase (EC 3.5.99.6)"
 },
 {
@@ -29506,11 +29516,11 @@
 "name":"UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)"
 },
 {
-"id":"762984.10.peg.3133",
+"id":"762984.10.peg.1",
 "name":"mannonate dehydratase (EC 4.2.1.8)"
 },
 {
-"id":"762984.10.peg.1",
+"id":"762984.10.peg.587",
 "name":"mannonate dehydratase (EC 4.2.1.8)"
 },
 {
@@ -29518,7 +29528,7 @@
 "name":"mannonate dehydratase (EC 4.2.1.8)"
 },
 {
-"id":"762984.10.peg.587",
+"id":"762984.10.peg.3133",
 "name":"mannonate dehydratase (EC 4.2.1.8)"
 },
 {
@@ -29554,24 +29564,24 @@
 "name":"ATP synthase gamma chain (EC 3.6.3.14)"
 },
 {
-"id":"762984.10.peg.1536",
-"name":"ATP synthase beta chain (EC 3.6.3.14)"
+"id":"762984.10.peg.1537",
+"name":"ATP synthase epsilon chain (EC 3.6.3.14)"
+},
+{
+"id":"762984.10.peg.1538",
+"name":"ATP synthase protein I"
 },
 {
 "id":"762984.10.peg.1542",
 "name":"ATP synthase delta chain (EC 3.6.3.14)"
 },
 {
-"id":"762984.10.peg.1537",
-"name":"ATP synthase epsilon chain (EC 3.6.3.14)"
+"id":"762984.10.peg.1536",
+"name":"ATP synthase beta chain (EC 3.6.3.14)"
 },
 {
 "id":"762984.10.peg.1543",
 "name":"ATP synthase alpha chain (EC 3.6.3.14)"
-},
-{
-"id":"762984.10.peg.1538",
-"name":"ATP synthase protein I"
 },
 {
 "id":"762984.10.peg.731",
@@ -29606,11 +29616,11 @@
 "name":"Alanine racemase (EC 5.1.1.1)"
 },
 {
-"id":"762984.10.peg.1062",
+"id":"762984.10.peg.1112",
 "name":"GDP-L-fucose synthetase (EC 1.1.1.271)"
 },
 {
-"id":"762984.10.peg.1112",
+"id":"762984.10.peg.1062",
 "name":"GDP-L-fucose synthetase (EC 1.1.1.271)"
 },
 {
@@ -29726,12 +29736,12 @@
 "name":"Sulfur carrier protein ThiS"
 },
 {
-"id":"762984.10.peg.2708",
-"name":"Acetoin dehydrogenase E1 component beta-subunit (EC 1.2.4.-)"
-},
-{
 "id":"762984.10.peg.2705",
 "name":"Dihydrolipoamide dehydrogenase of acetoin dehydrogenase (EC 1.8.1.4)"
+},
+{
+"id":"762984.10.peg.2708",
+"name":"Acetoin dehydrogenase E1 component alpha-subunit (EC 1.2.4.-)"
 },
 {
 "id":"762984.10.peg.372",
@@ -29762,19 +29772,19 @@
 "name":"Chloride channel protein"
 },
 {
-"id":"762984.10.peg.2022",
-"name":"Alpha-galactosidase (EC 3.2.1.22)"
-},
-{
 "id":"762984.10.peg.3153",
 "name":"Alpha-galactosidase (EC 3.2.1.22)"
 },
 {
-"id":"762984.10.peg.2029",
+"id":"762984.10.peg.2771",
 "name":"Alpha-galactosidase (EC 3.2.1.22)"
 },
 {
-"id":"762984.10.peg.2771",
+"id":"762984.10.peg.2022",
+"name":"Alpha-galactosidase (EC 3.2.1.22)"
+},
+{
+"id":"762984.10.peg.2029",
 "name":"Alpha-galactosidase (EC 3.2.1.22)"
 },
 {
@@ -29798,11 +29808,11 @@
 "name":"Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)"
 },
 {
-"id":"762984.10.peg.2886",
+"id":"762984.10.peg.2181",
 "name":"Phosphoglycolate phosphatase (EC 3.1.3.18)"
 },
 {
-"id":"762984.10.peg.2181",
+"id":"762984.10.peg.2886",
 "name":"Phosphoglycolate phosphatase (EC 3.1.3.18)"
 },
 {
@@ -29826,11 +29836,11 @@
 "name":"D-mannonate oxidoreductase (EC 1.1.1.57)"
 },
 {
-"id":"762984.10.peg.1928",
+"id":"762984.10.peg.2",
 "name":"D-mannonate oxidoreductase (EC 1.1.1.57)"
 },
 {
-"id":"762984.10.peg.2",
+"id":"762984.10.peg.1928",
 "name":"D-mannonate oxidoreductase (EC 1.1.1.57)"
 },
 {
@@ -29846,11 +29856,11 @@
 "name":"Sodium-dependent phosphate transporter"
 },
 {
-"id":"762984.10.peg.2380",
+"id":"762984.10.peg.2011",
 "name":"2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)"
 },
 {
-"id":"762984.10.peg.2011",
+"id":"762984.10.peg.2380",
 "name":"2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)"
 },
 {
@@ -29858,19 +29868,19 @@
 "name":"cephalosporin-C deacetylase (EC 3.1.1.41)"
 },
 {
-"id":"762984.10.peg.1311",
-"name":"5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)"
-},
-{
 "id":"762984.10.peg.1243",
 "name":"5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)"
 },
 {
-"id":"762984.10.peg.554",
-"name":"1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)"
+"id":"762984.10.peg.1311",
+"name":"5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)"
 },
 {
 "id":"762984.10.peg.2857",
+"name":"1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)"
+},
+{
+"id":"762984.10.peg.554",
 "name":"1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)"
 },
 {
@@ -29886,11 +29896,11 @@
 "name":"xylan 1,4-beta-xylosidase (EC 3.2.1.37)"
 },
 {
-"id":"762984.10.peg.2054",
+"id":"762984.10.peg.2343",
 "name":"xylan 1,4-beta-xylosidase (EC 3.2.1.37)"
 },
 {
-"id":"762984.10.peg.2343",
+"id":"762984.10.peg.2054",
 "name":"xylan 1,4-beta-xylosidase (EC 3.2.1.37)"
 },
 {
@@ -29899,7 +29909,7 @@
 },
 {
 "id":"762984.10.peg.2091",
-"name":"Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)"
+"name":"Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)"
 },
 {
 "id":"762984.10.peg.366",
@@ -29970,11 +29980,11 @@
 "name":"L-rhamnose isomerase (EC 5.3.1.14)"
 },
 {
-"id":"762984.10.peg.1234",
+"id":"762984.10.peg.2592",
 "name":"xanthan lyase (EC 4.2.2.12)"
 },
 {
-"id":"762984.10.peg.2592",
+"id":"762984.10.peg.1234",
 "name":"xanthan lyase (EC 4.2.2.12)"
 },
 {
@@ -29994,11 +30004,11 @@
 "name":"Glutamate synthase [NADPH] small chain (EC 1.4.1.13)"
 },
 {
-"id":"762984.10.peg.2015",
+"id":"762984.10.peg.1037",
 "name":"Putative dihydroxyacetone kinase (EC 2.7.1.29), ADP-binding subunit"
 },
 {
-"id":"762984.10.peg.1037",
+"id":"762984.10.peg.2015",
 "name":"Putative dihydroxyacetone kinase (EC 2.7.1.29), ADP-binding subunit"
 },
 {
@@ -30034,11 +30044,11 @@
 "name":"Citrate synthase (si) (EC 2.3.3.1)"
 },
 {
-"id":"762984.10.peg.1906",
+"id":"762984.10.peg.2317",
 "name":"Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)"
 },
 {
-"id":"762984.10.peg.2317",
+"id":"762984.10.peg.1906",
 "name":"Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)"
 },
 {
@@ -30054,15 +30064,15 @@
 "name":"Potassium efflux system KefA protein"
 },
 {
-"id":"762984.10.peg.2777",
-"name":"Thioredoxin"
-},
-{
 "id":"762984.10.peg.1264",
 "name":"Thioredoxin"
 },
 {
 "id":"762984.10.peg.1265",
+"name":"Thioredoxin"
+},
+{
+"id":"762984.10.peg.2777",
 "name":"Thioredoxin"
 },
 {
