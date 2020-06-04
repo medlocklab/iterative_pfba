@@ -1,2 +1,2 @@
-# go_pacm
-Metabolic profiling for optimizing co-cultures
+# iterative_pFBA
+This repository contains code implementing and describing a method for predicting metabolites with production and consumption behavior that is coupled with biomass production.
